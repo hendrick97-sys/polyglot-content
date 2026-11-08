@@ -1,0 +1,827 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "ru",
+  "contentVersion": 2,
+  "contentStatus": "curated-complete",
+  "publishedAt": "2026-11-08T10:00:00Z",
+  "units": [
+    {
+      "id": "ru.u01",
+      "order": 1,
+      "title": "Primeiros contatos",
+      "summary": "Cumprimentos, despedidas e apresentações básicas.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "ru.u01.l01",
+          "order": 1,
+          "title": "Cumprimentos e Cortesia",
+          "objective": "Cumprimentar, agradecer e se despedir com naturalidade.",
+          "estimatedMinutes": 8,
+          "vocabulary": [
+            {
+              "id": "ru.u01.l01.v01",
+              "term": "Здравствуйте",
+              "translation": "olá (formal)",
+              "transliteration": "Zdrávstvuyte",
+              "example": "Здравствуйте, как ваши дела?",
+              "exampleTranslation": "Olá, como vão suas coisas?"
+            },
+            {
+              "id": "ru.u01.l01.v02",
+              "term": "Привет",
+              "translation": "oi (informal)",
+              "transliteration": "Privét",
+              "example": "Привет, как дела?",
+              "exampleTranslation": "Oi, como vai?"
+            },
+            {
+              "id": "ru.u01.l01.v03",
+              "term": "До свидания",
+              "translation": "até logo",
+              "transliteration": "Do svidániya",
+              "example": "До свидания, хорошего дня!",
+              "exampleTranslation": "Até logo, tenha um bom dia!"
+            },
+            {
+              "id": "ru.u01.l01.v04",
+              "term": "Пожалуйста",
+              "translation": "por favor / de nada",
+              "transliteration": "Pozháluysta",
+              "example": "Чай, пожалуйста.",
+              "exampleTranslation": "Chá, por favor."
+            },
+            {
+              "id": "ru.u01.l01.v05",
+              "term": "Спасибо",
+              "translation": "obrigado(a)",
+              "transliteration": "Spasíbo",
+              "example": "Большое спасибо!",
+              "exampleTranslation": "Muito obrigado!"
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u01.g01",
+              "title": "Tratamento Formal vs. Informal",
+              "summary": "Distinção essencial de polidez em situações sociais e profissionais cotidianas.",
+              "examples": [
+                {
+                  "sentence": "Здравствуйте, господин Иванов. Как вы поживаете?",
+                  "transliteration": "Zdrávstvuyte, gospodín Ivánov. Kak vy pozhiváyete?",
+                  "translation": "Olá, senhor Ivanov. Como vai o senhor?",
+                  "note": "formal"
+                },
+                {
+                  "sentence": "Привет, Саша! Как дела?",
+                  "transliteration": "Privét, Sásha! Kak delá?",
+                  "translation": "Oi, Sasha! Como vão as coisas?",
+                  "note": "informal"
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u01.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Qual das opções significa \"olá (formal)\"?",
+              "correctAnswer": "Здравствуйте",
+              "options": [
+                "Здравствуйте",
+                "Привет",
+                "До свидания",
+                "Пожалуйста"
+              ],
+              "explanation": "Expressão básica de cumprimento no idioma."
+            },
+            {
+              "id": "ru.u01.e02",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir algo educadamente usando \"por favor\"?",
+              "correctAnswer": "Пожалуйста",
+              "options": [
+                "Пожалуйста",
+                "Здравствуйте",
+                "Привет",
+                "До свидания"
+              ],
+              "explanation": "Fórmula essencial de cortesia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u02",
+      "order": 2,
+      "title": "Vida Cotidiana e Números",
+      "summary": "Números, horas, café e objetos do dia a dia.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "ru.u02.l01",
+          "order": 1,
+          "title": "No Café e Pedidos Simples",
+          "objective": "Pedir alimentos, bebidas e perguntar preços.",
+          "estimatedMinutes": 10,
+          "vocabulary": [
+            {
+              "id": "ru.u02.v01",
+              "term": "Счёт",
+              "translation": "a conta",
+              "transliteration": "Schyot",
+              "example": "Принесите счёт, пожалуйста.",
+              "exampleTranslation": "Traga a conta, por favor."
+            },
+            {
+              "id": "ru.u02.v02",
+              "term": "Сколько это стоит?",
+              "translation": "quanto custa isso?",
+              "transliteration": "Skól’ko éto stóit?",
+              "example": "Скажите, сколько это стоит?",
+              "exampleTranslation": "Diga, quanto custa isso?"
+            },
+            {
+              "id": "ru.u02.v03",
+              "term": "Вода",
+              "translation": "água",
+              "transliteration": "Vodá",
+              "example": "Бутылку воды, пожалуйста.",
+              "exampleTranslation": "Uma garrafa de água, por favor."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u02.g01",
+              "title": "Artigos e Quantidades",
+              "summary": "Uso correto de artigos definidos e indefinidos com numerais e substantivos contáveis.",
+              "examples": [
+                {
+                  "sentence": "Два кофе и одну воду, пожалуйста.",
+                  "transliteration": "Dva kofe i odnu vodu, pozhaluysta.",
+                  "translation": "Dois cafés e uma água, por favor."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u02.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir a conta ou saber o preço?",
+              "correctAnswer": "Счёт",
+              "options": [
+                "Счёт",
+                "Сколько это стоит?",
+                "Вода"
+              ],
+              "explanation": "Expressão padrão de atendimento em estabelecimentos comerciais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u03",
+      "order": 3,
+      "title": "Rotina e Tempo Livre",
+      "summary": "Falar sobre hábitos, horários e atividades de lazer.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "ru.u03.l01",
+          "order": 1,
+          "title": "Um Dia Típico",
+          "objective": "Descrever sua rotina diária e atividades de fim de semana.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "ru.u03.v01",
+              "term": "Распорядок дня",
+              "translation": "rotina diária",
+              "transliteration": "Rasporyádok dnya",
+              "example": "Мой распорядок дня очень насыщенный.",
+              "exampleTranslation": "Minha rotina diária é muito intensa."
+            },
+            {
+              "id": "ru.u03.v02",
+              "term": "Просыпаться",
+              "translation": "acordar",
+              "transliteration": "Prosypát’sya",
+              "example": "Я просыпаюсь в семь утра.",
+              "exampleTranslation": "Eu acordo às sete da manhã."
+            },
+            {
+              "id": "ru.u03.v03",
+              "term": "Станция метро",
+              "translation": "estação de metrô",
+              "transliteration": "Stántsiya metró",
+              "example": "Где находится ближайшая станция метро?",
+              "exampleTranslation": "Onde fica a estação de metrô mais próxima?"
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u03.g01",
+              "title": "Expressando Frequência e Rotina",
+              "summary": "Advérbios de tempo e conectores de sequência (primeiro, depois, finalmente).",
+              "examples": [
+                {
+                  "sentence": "Я каждый день встаю рано и еду на работу на автобусе.",
+                  "transliteration": "Ya kazhdyy den’ vstayu rano i yedu na rabotu na avtobuse.",
+                  "translation": "Eu acordo cedo todos os dias e vou trabalhar de ônibus."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u03.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual expressão descreve uma atividade cotidiana regular?",
+              "correctAnswer": "Распорядок дня",
+              "options": [
+                "Распорядок дня",
+                "Просыпаться",
+                "Станция метро"
+              ],
+              "explanation": "Indica hábito estabelecido e frequência temporal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u04",
+      "order": 4,
+      "title": "Viagens e Lembranças do Passado",
+      "summary": "Contar fatos passados e experiências de viagem.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "ru.u04.l01",
+          "order": 1,
+          "title": "Minha Última Viagem",
+          "objective": "Narrar eventos ocorridos no passado e descrever locais visitados.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "ru.u04.v01",
+              "term": "Путешествие",
+              "translation": "viagem",
+              "transliteration": "Puteshéstvie",
+              "example": "Наше путешествие на поезде было прекрасным.",
+              "exampleTranslation": "Nossa viagem de trem foi maravilhosa."
+            },
+            {
+              "id": "ru.u04.v02",
+              "term": "Историческое место",
+              "translation": "lugar histórico",
+              "transliteration": "Istorícheskoe mésto",
+              "example": "Мы посетили древнее историческое место.",
+              "exampleTranslation": "Visitamos um antigo local histórico."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u04.g01",
+              "title": "Narrando Eventos Passados",
+              "summary": "Contraste entre ações pontuais concluídas e descrições de contexto no passado.",
+              "examples": [
+                {
+                  "sentence": "В прошлом году я посетил исторические города и многому научился.",
+                  "transliteration": "V proshlom godu ya posetil istoricheskie goroda i mnogomu nauchilsya.",
+                  "translation": "No ano passado visitei cidades históricas e aprendi muito."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u04.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual termo expressa uma viagem ou experiência concluída no passado?",
+              "correctAnswer": "Путешествие",
+              "options": [
+                "Путешествие",
+                "Историческое место",
+                "Иногда"
+              ],
+              "explanation": "Marca temporal de passado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u05",
+      "order": 5,
+      "title": "Trabalho e Projetos Futuros",
+      "summary": "Expressar planos, objetivos profissionais e ambições.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "ru.u05.l01",
+          "order": 1,
+          "title": "Carreira e Ambições",
+          "objective": "Discutir vida profissional e expressar metas futuras com segurança.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "ru.u05.v01",
+              "term": "Карьерная цель",
+              "translation": "meta profissional",
+              "transliteration": "Kar’érnaya tsel’",
+              "example": "Моя карьерная цель — руководить проектами.",
+              "exampleTranslation": "Minha meta profissional é liderar projetos."
+            },
+            {
+              "id": "ru.u05.v02",
+              "term": "Достигать",
+              "translation": "alcançar",
+              "transliteration": "Dostigát’",
+              "example": "Мы сможем достичь высоких результатов.",
+              "exampleTranslation": "Conseguiremos alcançar altos resultados."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u05.g01",
+              "title": "Planos, Metas e Futuro",
+              "summary": "Construção de objetivos com verbos modais e estruturas de intenção.",
+              "examples": [
+                {
+                  "sentence": "Я планирую работать над международными проектами и руководить командой.",
+                  "transliteration": "Ya planiruyu rabotat’ nad mezhdunarodnymi proyektami i rukovodit’ komandoy.",
+                  "translation": "Planejo trabalhar em projetos internacionais e liderar uma equipe."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u05.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual termo expressa objetivo profissional ou plano futuro?",
+              "correctAnswer": "Карьерная цель",
+              "options": [
+                "Карьерная цель",
+                "Достигать",
+                "Иногда"
+              ],
+              "explanation": "Vocabulário profissional indispensável para B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u06",
+      "order": 6,
+      "title": "Opiniões e Hipóteses",
+      "summary": "Argumentar, concordar, discordar e falar de situações hipotéticas.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "ru.u06.l01",
+          "order": 1,
+          "title": "Expressando Pontos de Vista",
+          "objective": "Defender um ponto de vista com argumentos e orações condicionais.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "ru.u06.v01",
+              "term": "По моему мнению",
+              "translation": "na minha opinião",
+              "transliteration": "Po moemú mnéniyu",
+              "example": "По моему мнению, образование меняет мир.",
+              "exampleTranslation": "Na minha opinião, a educação transforma o mundo."
+            },
+            {
+              "id": "ru.u06.v02",
+              "term": "Гипотеза",
+              "translation": "hipótese",
+              "transliteration": "Gipóteza",
+              "example": "Учёные выдвинули смелую гипотезу.",
+              "exampleTranslation": "Os cientistas formularam uma hipótese audaciosa."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u06.g01",
+              "title": "Orações Condicionais e Hipóteses",
+              "summary": "Se eu tivesse tempo, viajaria mais. Estrutura de condição e consequência.",
+              "examples": [
+                {
+                  "sentence": "Если бы у нас было больше времени, мы смогли бы завершить проект быстрее.",
+                  "transliteration": "Yesli by u nas bylo bol’she vremeni, my smogli by zavershit’ proyekt bystree.",
+                  "translation": "Se tivéssemos mais tempo, poderíamos concluir o projeto mais rápido."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u06.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual expressão introduz uma opinião fundamentada?",
+              "correctAnswer": "По моему мнению",
+              "options": [
+                "По моему мнению",
+                "Гипотеза",
+                "Иногда"
+              ],
+              "explanation": "Conector argumentativo de nível B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u07",
+      "order": 7,
+      "title": "Sociedade e Tecnologia",
+      "summary": "Analisar impactos tecnológicos e transformações sociais contemporâneas.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "ru.u07.l01",
+          "order": 1,
+          "title": "A Era Digital e Inovação",
+          "objective": "Expor argumentos complexos sobre tecnologia, sustentabilidade e inovação.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "ru.u07.v01",
+              "term": "Прорыв",
+              "translation": "avanço decisivo",
+              "transliteration": "Proryv",
+              "example": "Этот научный прорыв изменит медицину.",
+              "exampleTranslation": "Este avanço científico transformará a medicina."
+            },
+            {
+              "id": "ru.u07.v02",
+              "term": "Искусственный интеллект",
+              "translation": "inteligência artificial",
+              "transliteration": "Iskússtvennyy intellékt",
+              "example": "Искусственный интеллект активно внедряется в производство.",
+              "exampleTranslation": "A inteligência artificial está sendo amplamente implementada na produção."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u07.g01",
+              "title": "Voz Passiva e Estruturas de Ênfase",
+              "summary": "Foco no processo e resultado em relatórios, notícias e textos técnicos.",
+              "examples": [
+                {
+                  "sentence": "Сложные алгоритмы были внедрены для оптимизации общественного транспорта.",
+                  "transliteration": "Slozhnye algoritmy byli vnedreny dlya optimizatsii obshchestvennogo transporta.",
+                  "translation": "Algoritmos complexos foram implementados para otimizar o transporte público."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u07.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual conceito refere-se a avanço tecnológico contemporâneo?",
+              "correctAnswer": "Прорыв",
+              "options": [
+                "Прорыв",
+                "Искусственный интеллект",
+                "Иногда"
+              ],
+              "explanation": "Terminologia contemporânea de inovação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u08",
+      "order": 8,
+      "title": "Mídia, Notícias e Crítica",
+      "summary": "Interpretar matérias jornalísticas e estruturar relatórios analíticos.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "ru.u08.l01",
+          "order": 1,
+          "title": "Compreensão de Mídia e Relatos",
+          "objective": "Sintetizar notícias, emitir juízos críticos e identificar fontes confiáveis.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "ru.u08.v01",
+              "term": "Критическое мышление",
+              "translation": "pensamento crítico",
+              "transliteration": "Kritícheskoe myshlénie",
+              "example": "Критическое мышление необходимо каждому человеку.",
+              "exampleTranslation": "O pensamento crítico é necessário a toda pessoa."
+            },
+            {
+              "id": "ru.u08.v02",
+              "term": "Журналистская этика",
+              "translation": "ética jornalística",
+              "transliteration": "Zhurnalístskaya étika",
+              "example": "Соблюдение журналистской этики гарантирует доверие.",
+              "exampleTranslation": "O respeito à ética jornalística garante a confiança."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u08.g01",
+              "title": "Discurso Indireto e Relato Crítico",
+              "summary": "Relatar declarações de terceiros e analisar fontes jornalísticas e acadêmicas.",
+              "examples": [
+                {
+                  "sentence": "Исследователи сообщили, что эмпирический анализ подтвердил прежние предположения.",
+                  "transliteration": "Issledovatel’i soobshchili, chto empiricheskiy analiz podtverdil prezhnie predpolozheniya.",
+                  "translation": "Pesquisadores relataram que a análise empírica confirmou suposições anteriores."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u08.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual palavra descreve uma perspectiva analítica crítica?",
+              "correctAnswer": "Критическое мышление",
+              "options": [
+                "Критическое мышление",
+                "Журналистская этика",
+                "Иногда"
+              ],
+              "explanation": "Vocabulário analítico de nível B2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u09",
+      "order": 9,
+      "title": "Negócios Globais e Diplomacia",
+      "summary": "Comunicação executiva de alto nível, acordos e retórica formal.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "ru.u09.l01",
+          "order": 1,
+          "title": "Negociações e Retórica Formal",
+          "objective": "Utilizar vocabulário erudito e estruturas diplomáticas em debates formais.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "ru.u09.v01",
+              "term": "Стратегическое согласование",
+              "translation": "alinhamento estratégico",
+              "transliteration": "Strategícheskoe soglasovánie",
+              "example": "Стороны достигли стратегического согласования позиций.",
+              "exampleTranslation": "As partes alcançaram o alinhamento estratégico das posições."
+            },
+            {
+              "id": "ru.u09.v02",
+              "term": "Дипломатический консенсус",
+              "translation": "consenso diplomático",
+              "transliteration": "Diplomatícheskiy konsénsus",
+              "example": "Итогом переговоров стал дипломатический консенсус.",
+              "exampleTranslation": "O desfecho das negociações foi um consenso diplomático."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u09.g01",
+              "title": "Inversão Estilística e Diplomacia",
+              "summary": "Estruturas de alto prestígio utilizadas em negociações e ambientes executivos.",
+              "examples": [
+                {
+                  "sentence": "Редко дипломатическая инициатива приводила к столь глубокому согласию.",
+                  "transliteration": "Redko diplomaticheskaya initsiativa privodila k stol’ glubokomu soglasiyu.",
+                  "translation": "Raras vezes uma iniciativa diplomática conduziu a um acordo tão profundo."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u09.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual termo é empregado em negociações estratégicas de alto escalão?",
+              "correctAnswer": "Стратегическое согласование",
+              "options": [
+                "Стратегическое согласование",
+                "Дипломатический консенсус",
+                "Иногда"
+              ],
+              "explanation": "Vocabulário executivo e diplomático refinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u10",
+      "order": 10,
+      "title": "Ensaios e Pensamento Científico",
+      "summary": "Interpretação de textos abstratos, metodologia e precisão lexical.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "ru.u10.l01",
+          "order": 1,
+          "title": "Precisão Conceitual e Abstração",
+          "objective": "Produzir análises conceituais com alto rigor terminológico.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "ru.u10.v01",
+              "term": "Эпистемологическая строгость",
+              "translation": "rigor epistemológico",
+              "transliteration": "Epistemologícheskaya strógost’",
+              "example": "Исследование отличается эпистемологической строгостью.",
+              "exampleTranslation": "A pesquisa distingue-se pelo rigor epistemológico."
+            },
+            {
+              "id": "ru.u10.v02",
+              "term": "Эмпирическое подтверждение",
+              "translation": "corroboração empírica",
+              "transliteration": "Empirícheskoe podtverzhdénie",
+              "example": "Теория нашла весомое эмпирическое подтверждение.",
+              "exampleTranslation": "A teoria encontrou expressiva corroboração empírica."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u10.g01",
+              "title": "Conectores Argumentativos Complexos",
+              "summary": "Subordinação múltipla, paralelismo sintático e precisão epistemológica.",
+              "examples": [
+                {
+                  "sentence": "Несмотря на методологические разногласия, эмпирические данные подтверждают центральный тезис.",
+                  "transliteration": "Nesmotrya na metodologicheskie raznoglasiya, empiricheskie dannye podtverzhdayut tsentral’nyy tezis.",
+                  "translation": "Apesar das divergências metodológicas, os dados empíricos confirmam a tese central."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u10.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual vocábulo exprime rigor metodológico ou abstração científica?",
+              "correctAnswer": "Эпистемологическая строгость",
+              "options": [
+                "Эпистемологическая строгость",
+                "Эмпирическое подтверждение",
+                "Иногда"
+              ],
+              "explanation": "Precisão conceitual avançada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u11",
+      "order": 11,
+      "title": "Expressões Idiomáticas e Provérbios",
+      "summary": "Sabedoria popular, metáforas históricas e jogos de palavras refinados.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "ru.u11.l01",
+          "order": 1,
+          "title": "Provérbios e Idiomatismo Profundo",
+          "objective": "Dominar expressões idiomáticas autênticas e conotações culturais sutis.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "ru.u11.v01",
+              "term": "Квинтэссенция",
+              "translation": "quintessência",
+              "transliteration": "Kvintessentsiya",
+              "example": "Этот роман — квинтэссенция русской классики.",
+              "exampleTranslation": "Este romance é a quintessência do clássico russo."
+            },
+            {
+              "id": "ru.u11.v02",
+              "term": "Эфемерный",
+              "translation": "efêmero",
+              "transliteration": "Efemérnyy",
+              "example": "Они постигли эфемерную природу славы.",
+              "exampleTranslation": "Compreenderam a natureza efêmera da glória."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u11.g01",
+              "title": "Provérbios Históricos e Metáforas Enraizadas",
+              "summary": "Uso natural de expressões que carregam séculos de bagagem cultural nativa.",
+              "examples": [
+                {
+                  "sentence": "Время лечит душевные раны, но неустанное упорство остаётся залогом истинного мастерства.",
+                  "transliteration": "Vremya lechit dushevnye rany, no neustannoe uporstvo ostayotsya zalogom istinnogo masterstva.",
+                  "translation": "O tempo cura as feridas da alma, mas a perseverança incansável é a garantia da verdadeira maestria."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u11.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual é um provérbio ou metáfora cultural consagrada no idioma?",
+              "correctAnswer": "Квинтэссенция",
+              "options": [
+                "Квинтэссенция",
+                "Эфемерный",
+                "Иногда"
+              ],
+              "explanation": "Expressão idiomática de maestria absoluta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ru.u12",
+      "order": 12,
+      "title": "Nuances Literárias e Maestria Estilística",
+      "summary": "Ironia, ambiguidade deliberada, estilos literários e maestria total.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "ru.u12.l01",
+          "order": 1,
+          "title": "A Arte da Expressão Plena",
+          "objective": "Identificar e empregar ironia, alusões clássicas e cadência rítmica perfeita.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "ru.u12.v01",
+              "term": "Нить воспоминаний",
+              "translation": "fio / trama das lembranças",
+              "transliteration": "Nit’ vospominániy",
+              "example": "Он бережно распутывал тонкую нить воспоминаний.",
+              "exampleTranslation": "Ele deslindava cuidadosamente o tênue fio das lembranças."
+            },
+            {
+              "id": "ru.u12.v02",
+              "term": "Неизъяснимый",
+              "translation": "inefável",
+              "transliteration": "Neiz’yasnímyy",
+              "example": "Неизъяснимый восторг охватил всё его существо.",
+              "exampleTranslation": "Um inefável deleite envolveu todo o seu ser."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ru.u12.g01",
+              "title": "Sutileza Estilística, Ironia e Cadência",
+              "summary": "Flutuação intencional de registros, jogos fonéticos e ambiguidade poética.",
+              "examples": [
+                {
+                  "sentence": "С тонким изяществом писатель вплёл иронию, высветившую то, что долго утаивало молчание.",
+                  "transliteration": "S tonkim izyashchestvom pisatel’ vplyol ironiyu, vysvetivshuyu to, chto dolgo utaivalo molchanie.",
+                  "translation": "Com sutil elegância, o escritor entrelaçou a ironia que iluminou o que o silêncio havia ocultado por tanto tempo."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ru.u12.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual termo captura com perfeição uma nuance estilística sofisticada?",
+              "correctAnswer": "Нить воспоминаний",
+              "options": [
+                "Нить воспоминаний",
+                "Неизъяснимый",
+                "Иногда"
+              ],
+              "explanation": "Maestria lexical e estilística máxima."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

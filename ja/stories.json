@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "ja",
+  "contentVersion": 2,
+  "stories": [
+    {
+      "id": "ja.s01",
+      "title": "At the Cafe (A1)",
+      "level": "A1",
+      "unitId": "ja.u01",
+      "genre": "Cotidiano",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "レオは街の静かなカフェに入ります。朝の空気は澄んでいます。",
+        "彼は温かいコーヒーと焼きたてのクロワッサンを注文します。",
+        "店員さんは笑顔で「良い一日を！」と言いました。"
+      ],
+      "translations": [
+        "Leo entra em um café tranquilo na cidade. O ar da manhã é límpido.",
+        "Ele pede um café quente e um croissant recém-assado.",
+        "A atendente diz sorrindo: \"Tenha um bom dia!\""
+      ],
+      "transliterations": [
+        "Reo wa machi no shizuka na kafe ni hairimasu. Asa no kūki wa sunde imasu.",
+        "Kare wa atatakai kōhī to yakitate no kurowassan o chūmon shimasu.",
+        "Ten’in-san wa egao de \"Ii ichinichi o!\" to iimashita."
+      ],
+      "questions": [
+        {
+          "id": "ja.s01.q01",
+          "kind": "multipleChoice",
+          "level": "A1",
+          "prompt": "レオはカフェで何を注文しましたか。",
+          "correctAnswer": "コーヒーとクロワッサン",
+          "options": [
+            "コーヒーとクロワッサン",
+            "お茶とサンドイッチ",
+            "水とケーキ"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "カフェ",
+          "translation": "café",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ja.s02",
+      "title": "Train Journey to the Coast (A2)",
+      "level": "A2",
+      "unitId": "ja.u01",
+      "genre": "Viagens",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "先週の土曜日、ソフィアは朝の電車に乗って海岸へ向かいました。",
+        "彼女は波の音に耳を傾けながら、砂浜をゆっくりと散歩しました。",
+        "夕方には心身ともにリフレッシュして帰宅しました。"
+      ],
+      "translations": [
+        "No sábado passado, Sofia pegou o trem matinal e foi para a praia.",
+        "Ela passeou tranquilamente pela areia prestando atenção ao som das ondas.",
+        "Ao entardecer, retornou para casa com corpo e mente renovados."
+      ],
+      "transliterations": [
+        "Senshū no doyōbi, Sofia wa asa no densha ni notte kaigan e mukaimashita.",
+        "Kanojo wa nami no oto ni mimi o katamukinagara, sunahama o yukkuri to sanpo shimashita.",
+        "Yūgata ni wa shinshin tomo ni rifuresshu shite kitaku shimashita."
+      ],
+      "questions": [
+        {
+          "id": "ja.s02.q01",
+          "kind": "multipleChoice",
+          "level": "A2",
+          "prompt": "ソフィアは先週の土曜日にどこへ行きましたか。",
+          "correctAnswer": "電車で海岸へ",
+          "options": [
+            "電車で海岸へ",
+            "車で山へ",
+            "オフィスへ"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "海岸",
+          "translation": "litoral / costa",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ja.s03",
+      "title": "The Team Sprint (B1)",
+      "level": "B1",
+      "unitId": "ja.u01",
+      "genre": "Trabalho",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "私たちの開発チームは今朝、極めて重要な2週間のスプリントを開始しました。",
+        "システムの設計図を綿密に確認し、バックエンドの処理速度向上を優先しました。",
+        "チームが一丸となって連携すれば、リリースは期待以上の成果を上げるでしょう。"
+      ],
+      "translations": [
+        "Nossa equipe de desenvolvimento iniciou esta manhã um sprint decisivo de duas semanas.",
+        "Confirmamos minuciosamente o projeto do sistema e priorizamos o desempenho do backend.",
+        "Se a equipe atuar unida, o lançamento alcançará resultados além do esperado."
+      ],
+      "transliterations": [
+        "Watashitachi no kaihatsu chīmu wa kesa, kiwamete jūyō na ni-shūkan no supurinto o kaishi shimashita.",
+        "Shisutemu no sekkeizu o menmitsu ni kakunin shi, bakkuendo no shorisokudo kōjō o yūsen shimashita.",
+        "Chīmu ga ichigan to natte renkei sureba, rirīsu wa kitai ijō no seika o ageru deshō."
+      ],
+      "questions": [
+        {
+          "id": "ja.s03.q01",
+          "kind": "multipleChoice",
+          "level": "B1",
+          "prompt": "チームが最優先した課題は何ですか。",
+          "correctAnswer": "ソフトウェア設計と性能向上",
+          "options": [
+            "ソフトウェア設計と性能向上",
+            "休暇の申請",
+            "備品の購入"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "余韻",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ja.s04",
+      "title": "The Mountain Observatory (B2)",
+      "level": "B2",
+      "unitId": "ja.u01",
+      "genre": "Ficção",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "険しい花崗岩の尾根に佇む歴史ある天文台からは、満天の星座が見渡せました。",
+        "エレナは分光器を精密に調整し、未踏の領域から放射される特異な波長を観測しました。",
+        "この実証的な発見は従来の学説に再考を迫り、国際的な査読が求められました。"
+      ],
+      "translations": [
+        "Do histórico observatório situado sobre uma crista íngreme de granito avistava-se o firmamento repleto de constelações.",
+        "Elena calibrou meticulosamente o espectrógrafo e observou um comprimento de onda anômalo emitido de uma região inexplorada.",
+        "Esta descoberta empírica exigiu uma reavaliação das teorias vigentes e demandou revisão internacional."
+      ],
+      "transliterations": [
+        "Kewashii kakōgan no one ni tatazumu rekishi aru tenmondai kara wa, manten no seiza ga miwatasemasu.",
+        "Erena wa bunkōki o seimitsu ni chōsei shi, mitō no ryōiki kara hōsha sareru tokui na hachō o kansoku shimashita.",
+        "Kono jisshōteki na hakken wa jūrai no gakusetsu ni saikō o semari, kokusaiteki na sadoku ga motomeraremashita."
+      ],
+      "questions": [
+        {
+          "id": "ja.s04.q01",
+          "kind": "multipleChoice",
+          "level": "B2",
+          "prompt": "エレナが分光器で観測したものは何ですか。",
+          "correctAnswer": "特異な波長の放射",
+          "options": [
+            "特異な波長の放射",
+            "レンズの破損",
+            "人工衛星の光"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "余韻",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ja.s05",
+      "title": "Frontiers of Intelligence and Ethics (C1)",
+      "level": "C1",
+      "unitId": "ja.u01",
+      "genre": "Ciência",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "自律型認知アーキテクチャの急速な進展は、倫理的責任の根本的な再定義を社会に強く迫っています。",
+        "アルゴリズムの処理能力が人間のヒューリスティックな判断速度を凌駕するとき、認識論的不透明性が重大な統治の課題となります。",
+        "技術的野心を学際的な検証と対話に結びつけてこそ、社会的な信頼と自律性を保つことが可能となります。"
+      ],
+      "translations": [
+        "O rápido avanço de arquiteturas cognitivas autônomas exige com urgência da sociedade uma redefinição dos alicerces da responsabilidade ética.",
+        "Quando a capacidade de processamento algorítmico suplanta a velocidade de julgamento heurístico humano, a opacidade epistemológica torna-se um grave desafio de governança.",
+        "Somente vinculando a ambição tecnológica à validação interdisciplinar e ao diálogo é possível manter a confiança social e a autonomia."
+      ],
+      "transliterations": [
+        "Jiritsugata ninchi ākitekucha no kyūsoku na shinten wa, rinriteki sekinin no konponteki na sai-teigi o shakai ni tsuyoku sematte imasu.",
+        "Arugorizumu no shori nōryoku ga ningen no hyūrisutikku na handan sokudo o ryōga suru toki, ninshikironteki futōmeisei ga jūdai na tōchi no kadai to narimasu.",
+        "Gijutsuteki yashin o gakusaiteki na kenshō to taiwa ni musubitsukete koso, shakaiteki na shinrai to jiritsusei o tamotsu koto ga kanō to narimasu."
+      ],
+      "questions": [
+        {
+          "id": "ja.s05.q01",
+          "kind": "multipleChoice",
+          "level": "C1",
+          "prompt": "本文において統治上の最重要課題として挙げられているものは何ですか。",
+          "correctAnswer": "アルゴリズムの認識論的不透明性",
+          "options": [
+            "アルゴリズムの認識論的不透明性",
+            "ハードウェアの製造費用",
+            "電力不足の懸念"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "統治",
+          "translation": "governança / controle",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ja.s06",
+      "title": "The Tapestry of Ephemerality (C2)",
+      "level": "C2",
+      "unitId": "ja.u01",
+      "genre": "Literatura",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "古典の黄昏において、記憶とは決して凍結された事実の集積ではなく、沈黙と追憶によって織りなされる変幻自在の綾織物であると捉えられました。",
+        "行間を深く読み解くことは、あえて決定的な言葉を避ける雅な余韻の響きに耳を澄ませることに他なりません。",
+        "表現の極致とは、曖昧さを回避すべき瑕疵としてではなく、人間存在の多面的な深遠さを映し出す至高の鏡として操ることにあります。"
+      ],
+      "translations": [
+        "No crepúsculo das eras clássicas, a memória era compreendida não como um acúmulo de fatos petrificados, mas como uma tecedura mutável tecida de silêncio e recordações.",
+        "Ler profundamente nas entrelinhas nada mais é do que apurar os ouvidos para os ecos elegantes que deliberadamente evitam sentenças definitivas.",
+        "O ápice da expressão reside em manejar a ambiguidade não como uma imperfeição a ser evitada, mas como o espelho supremo que reflete a profundidade multifacetada da existência humana."
+      ],
+      "transliterations": [
+        "Koten no tasogare ni oite, kioku to wa kesshite tōketsu sareta jijitsu no shūseki dewa naku, chinmoku to tsuioku ni yotte orinasareru hengen jizai no ayaorimono de aru to toraeraremashita.",
+        "Gyōkan o fukaku yomitoku koto wa, aete ketteiteki na kotoba o sakeru miyabi na yoin no hibiki ni mimi o sumaseru koto ni hoka narimasen.",
+        "Hyōgen no kyokuchi to wa, aimaisa o kaihi subeki kashi to shite dewa naku, ningen sonzai no tamanteki na shin’ensa o utsushidasu shikō no kagami to shite ayatsuru koto ni arimasu."
+      ],
+      "questions": [
+        {
+          "id": "ja.s06.q01",
+          "kind": "multipleChoice",
+          "level": "C2",
+          "prompt": "本文における「表現の極致」とは何ですか。",
+          "correctAnswer": "曖昧さを人間存在を映す鏡として操ること",
+          "options": [
+            "曖昧さを人間存在を映す鏡として操ること",
+            "すべての文を直訳すること",
+            "文法書を暗記すること"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "余韻",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    }
+  ]
+}

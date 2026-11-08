@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "ja",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "ja.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "わたしは学生___。",
+      "options": [
+        "です",
+        "ます",
+        "を",
+        "が"
+      ],
+      "correctAnswer": "です"
+    },
+    {
+      "id": "ja.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "“Obrigado” (forma polida) em japonês:",
+      "options": [
+        "ありがとうございます",
+        "おはよう",
+        "さようなら",
+        "いただきます"
+      ],
+      "correctAnswer": "ありがとうございます"
+    },
+    {
+      "id": "ja.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "きのう、学校___行きました。",
+      "options": [
+        "に",
+        "を",
+        "が",
+        "の"
+      ],
+      "correctAnswer": "に"
+    },
+    {
+      "id": "ja.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "これはわたし___本です。",
+      "options": [
+        "の",
+        "を",
+        "に",
+        "で"
+      ],
+      "correctAnswer": "の"
+    },
+    {
+      "id": "ja.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "もし時間が___、旅行します。",
+      "options": [
+        "あれば",
+        "あるから",
+        "あるので",
+        "あって"
+      ],
+      "correctAnswer": "あれば"
+    }
+  ]
+}

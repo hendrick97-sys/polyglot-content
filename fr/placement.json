@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "fr",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "fr.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Je ___ étudiant.",
+      "options": [
+        "suis",
+        "es",
+        "est",
+        "sommes"
+      ],
+      "correctAnswer": "suis"
+    },
+    {
+      "id": "fr.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Comment tu t'___ ?",
+      "options": [
+        "appelles",
+        "appelle",
+        "appelez",
+        "appelons"
+      ],
+      "correctAnswer": "appelles"
+    },
+    {
+      "id": "fr.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Hier, je ___ au marché.",
+      "options": [
+        "suis allé",
+        "vais",
+        "irai",
+        "aller"
+      ],
+      "correctAnswer": "suis allé"
+    },
+    {
+      "id": "fr.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Nous ___ français.",
+      "options": [
+        "parlons",
+        "parlez",
+        "parlent",
+        "parle"
+      ],
+      "correctAnswer": "parlons"
+    },
+    {
+      "id": "fr.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "Si j'avais plus de temps, je ___ plus.",
+      "options": [
+        "voyagerais",
+        "voyagerai",
+        "voyage",
+        "voyageais"
+      ],
+      "correctAnswer": "voyagerais"
+    }
+  ]
+}

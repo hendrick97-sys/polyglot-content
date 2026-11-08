@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "es",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "es.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Yo ___ estudiante.",
+      "options": [
+        "soy",
+        "estoy",
+        "eres",
+        "es"
+      ],
+      "correctAnswer": "soy"
+    },
+    {
+      "id": "es.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "¿Cómo te ___? — Me llamo Ana.",
+      "options": [
+        "llamas",
+        "llamo",
+        "llama",
+        "llaman"
+      ],
+      "correctAnswer": "llamas"
+    },
+    {
+      "id": "es.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Ayer yo ___ al mercado.",
+      "options": [
+        "fui",
+        "voy",
+        "iré",
+        "soy"
+      ],
+      "correctAnswer": "fui"
+    },
+    {
+      "id": "es.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Mi hermana ___ en Madrid.",
+      "options": [
+        "vive",
+        "vivo",
+        "vives",
+        "viven"
+      ],
+      "correctAnswer": "vive"
+    },
+    {
+      "id": "es.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "Si tuviera más tiempo, ___ más.",
+      "options": [
+        "viajaría",
+        "viajo",
+        "viajé",
+        "viajaré"
+      ],
+      "correctAnswer": "viajaría"
+    }
+  ]
+}

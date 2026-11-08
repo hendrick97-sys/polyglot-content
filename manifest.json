@@ -1,0 +1,148 @@
+﻿{
+    "files":  [
+                  {
+                      "path":  "languages.json",
+                      "sha256":  "f416b2dd2473e9f3ede64e497ae51016162595dcae6b921ce15d036d066e4a7c",
+                      "version":  1,
+                      "size":  1768
+                  },
+                  {
+                      "path":  "en/curriculum.json",
+                      "sha256":  "730efb11aabfa284db3a65b4aac7f53526044561499620fee1d1335eb84610bf",
+                      "version":  2,
+                      "size":  28797
+                  },
+                  {
+                      "path":  "en/stories.json",
+                      "sha256":  "4bcb4e03e393e22a3bd8bcbde11d14b4d2e8106fc9578afab7af7c8faa4260f8",
+                      "version":  2,
+                      "size":  10057
+                  },
+                  {
+                      "path":  "en/placement.json",
+                      "sha256":  "b38a15921101de7065f66343bdcbb1dd26de9a947df816c1cbbd3303fe8a57d2",
+                      "version":  1,
+                      "size":  1493
+                  },
+                  {
+                      "path":  "es/curriculum.json",
+                      "sha256":  "d9f3c872ee4780625201e21a4767aec1682d843976c89ef5ddbbbf73c90e9046",
+                      "version":  2,
+                      "size":  28916
+                  },
+                  {
+                      "path":  "es/stories.json",
+                      "sha256":  "dd1d98346031575403afd10a0ca51cf27ebf359b0e939275768516b9ae2570e6",
+                      "version":  2,
+                      "size":  9993
+                  },
+                  {
+                      "path":  "es/placement.json",
+                      "sha256":  "dadb235d984ca503dcbdb0972dffd0735a338fe1a6cac7e9e0b5853f87385fa5",
+                      "version":  1,
+                      "size":  1480
+                  },
+                  {
+                      "path":  "it/curriculum.json",
+                      "sha256":  "ded4f4adfa27d4b51c024b195e1fe1a3e854d82f37d0ace8841debe9f76863df",
+                      "version":  2,
+                      "size":  28807
+                  },
+                  {
+                      "path":  "it/stories.json",
+                      "sha256":  "cf5790c99f6576e751718787be30771ef686be04dcee79191275606f163f37cc",
+                      "version":  2,
+                      "size":  9920
+                  },
+                  {
+                      "path":  "it/placement.json",
+                      "sha256":  "333bbf9919ab0621d493ba289f5840401312196e199a0c22a23d822857d94c67",
+                      "version":  1,
+                      "size":  1497
+                  },
+                  {
+                      "path":  "fr/curriculum.json",
+                      "sha256":  "5c749ea71226b56655bac3b1e29c75b8be32b35dde34f873329a1b6c9facc2df",
+                      "version":  2,
+                      "size":  29314
+                  },
+                  {
+                      "path":  "fr/stories.json",
+                      "sha256":  "4071ca5e7df898eb89a252b44f9da801baa089b3695e1ab5b600c63979d29038",
+                      "version":  2,
+                      "size":  10087
+                  },
+                  {
+                      "path":  "fr/placement.json",
+                      "sha256":  "637d09a0cbfb7c67ae973184c81423e06bd9ed03dbe2fdd434c732a3e0abf7f1",
+                      "version":  1,
+                      "size":  1510
+                  },
+                  {
+                      "path":  "de/curriculum.json",
+                      "sha256":  "29aba7f0f04546608cc599f1877611ebe5f1ff58cb374f1989189366addea8e0",
+                      "version":  2,
+                      "size":  29045
+                  },
+                  {
+                      "path":  "de/stories.json",
+                      "sha256":  "2f2c3eb024ed774e5330e634f06a9c0d2d829ee5e2e4d7de9c31d95a19897e53",
+                      "version":  2,
+                      "size":  10014
+                  },
+                  {
+                      "path":  "de/placement.json",
+                      "sha256":  "fc9cd0972529da4c2d79e2d0204576a074dfe279d36dd17301cd97aee29df560",
+                      "version":  1,
+                      "size":  1481
+                  },
+                  {
+                      "path":  "ru/curriculum.json",
+                      "sha256":  "583f4e11eb2244ba6cafeeaa06692e21b6a8c3b8e09bcc1127b779a196b4a9a9",
+                      "version":  2,
+                      "size":  34535
+                  },
+                  {
+                      "path":  "ru/stories.json",
+                      "sha256":  "fccb69aa8395cb3bf7ad1191782782472adb265f6d53caea57c469153fe4b80a",
+                      "version":  2,
+                      "size":  14265
+                  },
+                  {
+                      "path":  "ru/placement.json",
+                      "sha256":  "7a9eb6c651a74500358e7bd91ddee1b069ba09d3381bc686d88e3dfdbab961b6",
+                      "version":  1,
+                      "size":  1819
+                  },
+                  {
+                      "path":  "ja/curriculum.json",
+                      "sha256":  "4997961c50cb99c2dea9574da550b6a1bf0964bf7053655913fda9388e39a3d8",
+                      "version":  2,
+                      "size":  32805
+                  },
+                  {
+                      "path":  "ja/stories.json",
+                      "sha256":  "ba91d51ce02aec04efb16cc0edd795a7cb23778183a88194e8160ed6eb3467d5",
+                      "version":  2,
+                      "size":  13160
+                  },
+                  {
+                      "path":  "ja/placement.json",
+                      "sha256":  "d67e822e67a8d915c0087b1ccb61e59447a4948d9862f1ea946102ab76c17f64",
+                      "version":  1,
+                      "size":  1615
+                  }
+              ],
+    "schemaVersion":  1,
+    "contentVersion":  2,
+    "publishedAt":  "2026-11-08T19:17:49Z",
+    "languages":  [
+                      "en",
+                      "es",
+                      "it",
+                      "fr",
+                      "de",
+                      "ru",
+                      "ja"
+                  ]
+}

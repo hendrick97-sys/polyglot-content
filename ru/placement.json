@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "ru",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "ru.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Qual palavra significa “obrigado(a)”?",
+      "options": [
+        "Спасибо",
+        "Пожалуйста",
+        "Здравствуйте",
+        "До свидания"
+      ],
+      "correctAnswer": "Спасибо"
+    },
+    {
+      "id": "ru.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Complete: Меня ___ Иван.",
+      "options": [
+        "зовут",
+        "зовёшь",
+        "зовём",
+        "зовёте"
+      ],
+      "correctAnswer": "зовут"
+    },
+    {
+      "id": "ru.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Qual é a forma formal do pronome “você”?",
+      "options": [
+        "вы",
+        "ты",
+        "я",
+        "мы"
+      ],
+      "correctAnswer": "вы"
+    },
+    {
+      "id": "ru.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Complete: Я ___ Бразилии. (Sou do Brasil.)",
+      "options": [
+        "из",
+        "в",
+        "на",
+        "у"
+      ],
+      "correctAnswer": "из"
+    },
+    {
+      "id": "ru.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "Escolha a forma correta: “Nós falamos russo.”",
+      "options": [
+        "Мы говорим по-русски.",
+        "Мы говорит по-русски.",
+        "Я говорим по-русски.",
+        "Мы говорить по-русски."
+      ],
+      "correctAnswer": "Мы говорим по-русски."
+    }
+  ]
+}

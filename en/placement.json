@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "en",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "en.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "She ___ a teacher.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correctAnswer": "is"
+    },
+    {
+      "id": "en.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Choose the greeting for the morning: “Good ___!”",
+      "options": [
+        "morning",
+        "night",
+        "bye",
+        "please"
+      ],
+      "correctAnswer": "morning"
+    },
+    {
+      "id": "en.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Yesterday I ___ to the market.",
+      "options": [
+        "went",
+        "go",
+        "goes",
+        "going"
+      ],
+      "correctAnswer": "went"
+    },
+    {
+      "id": "en.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "There ___ two books on the table.",
+      "options": [
+        "are",
+        "is",
+        "be",
+        "am"
+      ],
+      "correctAnswer": "are"
+    },
+    {
+      "id": "en.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "If I ___ more time, I would travel more.",
+      "options": [
+        "had",
+        "have",
+        "has",
+        "will have"
+      ],
+      "correctAnswer": "had"
+    }
+  ]
+}

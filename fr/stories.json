@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "fr",
+  "contentVersion": 2,
+  "stories": [
+    {
+      "id": "fr.s01",
+      "title": "At the Cafe (A1)",
+      "level": "A1",
+      "unitId": "fr.u01",
+      "genre": "Cotidiano",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "Léo entre dans un café calme au centre-ville. L’air du matin est vivifiant.",
+        "Il commande un café noir chaud et un croissant frais.",
+        "Le serveur sourit et dit : \"Passez une excellente journée !\""
+      ],
+      "translations": [
+        "Léo entra em um café calmo no centro. O ar da manhã é revigorante.",
+        "Ele pede um café preto quente e um croissant fresco.",
+        "O garçom sorri e diz: \"Tenha um excelente dia!\""
+      ],
+      "questions": [
+        {
+          "id": "fr.s01.q01",
+          "kind": "multipleChoice",
+          "level": "A1",
+          "prompt": "Qu’a commandé Léo au café ?",
+          "correctAnswer": "Café et croissant",
+          "options": [
+            "Café et croissant",
+            "Thé et gâteau",
+            "Jus et pain"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cafe",
+          "translation": "café",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "fr.s02",
+      "title": "Train Journey to the Coast (A2)",
+      "level": "A2",
+      "unitId": "fr.u01",
+      "genre": "Viagens",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "Samedi dernier, Sofia a pris un train régional matinal vers la côte.",
+        "Elle a marché le long du rivage en écoutant les vagues paisibles.",
+        "Le soir, elle est rentrée chez elle ressourcée et pleine d’inspiration."
+      ],
+      "translations": [
+        "No sábado passado, Sofia pegou um trem regional matinal em direção à costa.",
+        "Ela caminhou ao longo da praia ouvindo as ondas tranquilas.",
+        "À noite, voltou para casa revigorada e cheia de inspiração."
+      ],
+      "questions": [
+        {
+          "id": "fr.s02.q01",
+          "kind": "multipleChoice",
+          "level": "A2",
+          "prompt": "Où Sofia s’est-elle rendue samedi dernier ?",
+          "correctAnswer": "À la côte en train",
+          "options": [
+            "À la côte en train",
+            "À la montagne en voiture",
+            "Au bureau"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "coast",
+          "translation": "litoral / costa",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "fr.s03",
+      "title": "The Team Sprint (B1)",
+      "level": "B1",
+      "unitId": "fr.u01",
+      "genre": "Trabalho",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Notre équipe de développement a entamé ce matin un sprint de deux semaines.",
+        "Nous avons examiné les diagrammes d’architecture et optimisé les performances.",
+        "Si nous collaborons activement, le déploiement dépassera les prévisions."
+      ],
+      "translations": [
+        "Nossa equipe de desenvolvimento iniciou esta manhã um sprint de duas semanas.",
+        "Examinamos os diagramas de arquitetura e otimizamos as performances.",
+        "Se colaborarmos ativamente, o lançamento superará as previsões."
+      ],
+      "questions": [
+        {
+          "id": "fr.s03.q01",
+          "kind": "multipleChoice",
+          "level": "B1",
+          "prompt": "Quel était l’objectif prioritaire de l’équipe ?",
+          "correctAnswer": "Architecture et performance logicielle",
+          "options": [
+            "Architecture et performance logicielle",
+            "Congés payés",
+            "Pause café"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "fr.s04",
+      "title": "The Mountain Observatory (B2)",
+      "level": "B2",
+      "unitId": "fr.u01",
+      "genre": "Ficção",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Perché sur une crête de granit escarpée, l’ancien observatoire astronomique offrait une vue panoramique des constellations.",
+        "Elena calibra le spectrographe et décela une longueur d’onde anormale pulsant depuis un quadrant inexploré.",
+        "Cette découverte empirique ébranlait les paradigmes admis et exigeait un examen collégial international."
+      ],
+      "translations": [
+        "Empoleirado sobre uma crista de granito escarpada, o antigo observatório astronômico oferecia uma vista panorâmica das constelações.",
+        "Elena calibrou o espectrógrafo e detectou um comprimento de onda anormal pulsando de um quadrante inexplorado.",
+        "Esta descoberta empírica abalava os paradigmas aceitos e exigia um exame colegiado internacional."
+      ],
+      "questions": [
+        {
+          "id": "fr.s04.q01",
+          "kind": "multipleChoice",
+          "level": "B2",
+          "prompt": "Qu’a observé Elena au moyen du spectrographe ?",
+          "correctAnswer": "Une longueur d’onde anormale",
+          "options": [
+            "Une longueur d’onde anormale",
+            "Un météore isolé",
+            "Une coupure de courant"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "fr.s05",
+      "title": "Frontiers of Intelligence and Ethics (C1)",
+      "level": "C1",
+      "unitId": "fr.u01",
+      "genre": "Ciência",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "L’essor d’architectures cognitives autonomes astreint les sociétés contemporaines à réinterroger le fondement de la responsabilité éthique.",
+        "Dès lors que la puissance algorithmique devance l’intuition heuristique humaine, l’opacité épistémique s’impose comme un défi majeur de gouvernance.",
+        "Seul l’ancrage du déploiement technique dans une délibération collégiale et rigoureuse garantira la pérennité démocratique."
+      ],
+      "translations": [
+        "A expansão de arquiteturas cognitivas autônomas obriga as sociedades contemporâneas a reinterrogar o fundamento da responsabilidade ética.",
+        "Assim que a potência algorítmica ultrapassa a intuição heurística humana, a opacidade epistêmica impõe-se como um grande desafio de governança.",
+        "Apenas o ancoramento do desenvolvimento técnico em uma deliberação colegiada e rigorosa garantirá a perenidade democrática."
+      ],
+      "questions": [
+        {
+          "id": "fr.s05.q01",
+          "kind": "multipleChoice",
+          "level": "C1",
+          "prompt": "Quel enjeu de gouvernance le texte met-il en exergue ?",
+          "correctAnswer": "L’opacité épistémique des algorithmes",
+          "options": [
+            "L’opacité épistémique des algorithmes",
+            "Le prix des serveurs",
+            "Le manque d’électricité"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "governance",
+          "translation": "governança / controle",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "fr.s06",
+      "title": "The Tapestry of Ephemerality (C2)",
+      "level": "C2",
+      "unitId": "fr.u01",
+      "genre": "Literatura",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "Au crépuscule des certitudes, la mémoire humaine n’apparaît point comme un musée de faits figés, mais comme une trame vivante d’ombres et d’émotions inexprimées.",
+        "Sonder les silences d’une prose ciselée, c’est surprendre l’écho secret d’une vérité qui refuse l’évidence grossière.",
+        "La plénitude du verbe s’accomplit lorsque l’art de l’allusion élève l’ambiguïté au rang de révélation philosophique."
+      ],
+      "translations": [
+        "No crepúsculo das certezas, a memória humana não aparece como um museu de fatos estáticos, mas como uma trama viva de sombras e emoções não expressas.",
+        "Sondar os silêncios de uma prosa cinzelada é surpreender o eco secreto de uma verdade que recusa a evidência grosseira.",
+        "A plenitude do verbo cumpre-se quando a arte da alusão eleva a ambiguidade ao patamar de revelação filosófica."
+      ],
+      "questions": [
+        {
+          "id": "fr.s06.q01",
+          "kind": "multipleChoice",
+          "level": "C2",
+          "prompt": "Comment le texte conçoit-il la plénitude de l’expression stylistique ?",
+          "correctAnswer": "L’art de l’allusion érigé en révélation",
+          "options": [
+            "L’art de l’allusion érigé en révélation",
+            "L’application rigide du dictionnaire",
+            "La simple répétition verbale"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    }
+  ]
+}

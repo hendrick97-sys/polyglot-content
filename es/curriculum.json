@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "es",
+  "contentVersion": 2,
+  "contentStatus": "curated-complete",
+  "publishedAt": "2026-11-08T10:00:00Z",
+  "units": [
+    {
+      "id": "es.u01",
+      "order": 1,
+      "title": "Primeiros contatos",
+      "summary": "Cumprimentos, despedidas e apresentações básicas.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "es.u01.l01",
+          "order": 1,
+          "title": "Cumprimentos e Cortesia",
+          "objective": "Cumprimentar, agradecer e se despedir com naturalidade.",
+          "estimatedMinutes": 8,
+          "vocabulary": [
+            {
+              "id": "es.u01.l01.v01",
+              "term": "hola",
+              "translation": "olá",
+              "example": "¡Hola! ¿Cómo estás?",
+              "exampleTranslation": "Olá! Como você está?"
+            },
+            {
+              "id": "es.u01.l01.v02",
+              "term": "buenos días",
+              "translation": "bom dia",
+              "example": "Buenos días a todos.",
+              "exampleTranslation": "Bom dia a todos."
+            },
+            {
+              "id": "es.u01.l01.v03",
+              "term": "adiós",
+              "translation": "adeus / tchau",
+              "example": "Adiós, hasta luego.",
+              "exampleTranslation": "Tchau, até logo."
+            },
+            {
+              "id": "es.u01.l01.v04",
+              "term": "por favor",
+              "translation": "por favor",
+              "example": "Un café, por favor.",
+              "exampleTranslation": "Um café, por favor."
+            },
+            {
+              "id": "es.u01.l01.v05",
+              "term": "gracias",
+              "translation": "obrigado(a)",
+              "example": "Muchas gracias por la ayuda.",
+              "exampleTranslation": "Muito obrigado pela ajuda."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u01.g01",
+              "title": "Tratamento Formal vs. Informal",
+              "summary": "Distinção essencial de polidez em situações sociais e profissionais cotidianas.",
+              "examples": [
+                {
+                  "sentence": "Buenos días, señor López. ¿Cómo está usted?",
+                  "translation": "Bom dia, senhor López. Como o senhor está?",
+                  "note": "formal"
+                },
+                {
+                  "sentence": "¡Hola Carlos! ¿Cómo estás?",
+                  "translation": "Oi Carlos! Como você está?",
+                  "note": "informal"
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u01.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Qual das opções significa \"olá\"?",
+              "correctAnswer": "hola",
+              "options": [
+                "hola",
+                "buenos días",
+                "adiós",
+                "por favor"
+              ],
+              "explanation": "Expressão básica de cumprimento no idioma."
+            },
+            {
+              "id": "es.u01.e02",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir algo educadamente usando \"por favor\"?",
+              "correctAnswer": "por favor",
+              "options": [
+                "por favor",
+                "hola",
+                "buenos días",
+                "adiós"
+              ],
+              "explanation": "Fórmula essencial de cortesia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u02",
+      "order": 2,
+      "title": "Vida Cotidiana e Números",
+      "summary": "Números, horas, café e objetos do dia a dia.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "es.u02.l01",
+          "order": 1,
+          "title": "No Café e Pedidos Simples",
+          "objective": "Pedir alimentos, bebidas e perguntar preços.",
+          "estimatedMinutes": 10,
+          "vocabulary": [
+            {
+              "id": "es.u02.v01",
+              "term": "la cuenta",
+              "translation": "a conta",
+              "example": "¿Me trae la cuenta, por favor?",
+              "exampleTranslation": "Me traz a conta, por favor?"
+            },
+            {
+              "id": "es.u02.v02",
+              "term": "¿cuánto cuesta?",
+              "translation": "quanto custa?",
+              "example": "¿Cuánto cuesta este libro?",
+              "exampleTranslation": "Quanto custa este livro?"
+            },
+            {
+              "id": "es.u02.v03",
+              "term": "agua mineral",
+              "translation": "água mineral",
+              "example": "Agua mineral con gas, por favor.",
+              "exampleTranslation": "Água mineral com gás, por favor."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u02.g01",
+              "title": "Artigos e Quantidades",
+              "summary": "Uso correto de artigos definidos e indefinidos com numerais e substantivos contáveis.",
+              "examples": [
+                {
+                  "sentence": "Dos cafés y un agua mineral, por favor.",
+                  "translation": "Dois cafés e uma água mineral, por favor."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u02.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir a conta ou saber o preço?",
+              "correctAnswer": "la cuenta",
+              "options": [
+                "la cuenta",
+                "¿cuánto cuesta?",
+                "agua mineral"
+              ],
+              "explanation": "Expressão padrão de atendimento em estabelecimentos comerciais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u03",
+      "order": 3,
+      "title": "Rotina e Tempo Livre",
+      "summary": "Falar sobre hábitos, horários e atividades de lazer.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "es.u03.l01",
+          "order": 1,
+          "title": "Um Dia Típico",
+          "objective": "Descrever sua rotina diária e atividades de fim de semana.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "es.u03.v01",
+              "term": "rutina diaria",
+              "translation": "rotina diária",
+              "example": "Mi rutina diaria es muy tranquila.",
+              "exampleTranslation": "Minha rotina diária é muito tranquila."
+            },
+            {
+              "id": "es.u03.v02",
+              "term": "despertarse",
+              "translation": "acordar",
+              "example": "Suelo despertarme a las siete.",
+              "exampleTranslation": "Costumo acordar às sete."
+            },
+            {
+              "id": "es.u03.v03",
+              "term": "estación de metro",
+              "translation": "estação de metrô",
+              "example": "Camino hacia la estación de metro.",
+              "exampleTranslation": "Caminho até a estação de metrô."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u03.g01",
+              "title": "Expressando Frequência e Rotina",
+              "summary": "Advérbios de tempo e conectores de sequência (primeiro, depois, finalmente).",
+              "examples": [
+                {
+                  "sentence": "Me levanto temprano todos los días y voy en autobús al trabajo.",
+                  "translation": "Acordo cedo todos os dias e vou de ônibus ao trabalho."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u03.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual expressão descreve uma atividade cotidiana regular?",
+              "correctAnswer": "rutina diaria",
+              "options": [
+                "rutina diaria",
+                "despertarse",
+                "estación de metro"
+              ],
+              "explanation": "Indica hábito estabelecido e frequência temporal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u04",
+      "order": 4,
+      "title": "Viagens e Lembranças do Passado",
+      "summary": "Contar fatos passados e experiências de viagem.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "es.u04.l01",
+          "order": 1,
+          "title": "Minha Última Viagem",
+          "objective": "Narrar eventos ocorridos no passado e descrever locais visitados.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "es.u04.v01",
+              "term": "el viaje",
+              "translation": "a viagem",
+              "example": "El viaje en tren fue inolvidable.",
+              "exampleTranslation": "A viagem de trem foi inesquecível."
+            },
+            {
+              "id": "es.u04.v02",
+              "term": "sitio histórico",
+              "translation": "lugar histórico",
+              "example": "Visitamos un hermoso sitio histórico.",
+              "exampleTranslation": "Visitamos um belo sítio histórico."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u04.g01",
+              "title": "Narrando Eventos Passados",
+              "summary": "Contraste entre ações pontuais concluídas e descrições de contexto no passado.",
+              "examples": [
+                {
+                  "sentence": "El año pasado visité ciudades históricas y aprendí mucho.",
+                  "translation": "No ano passado visitei cidades históricas e aprendi muito."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u04.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual termo expressa uma viagem ou experiência concluída no passado?",
+              "correctAnswer": "el viaje",
+              "options": [
+                "el viaje",
+                "sitio histórico",
+                "a veces"
+              ],
+              "explanation": "Marca temporal de passado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u05",
+      "order": 5,
+      "title": "Trabalho e Projetos Futuros",
+      "summary": "Expressar planos, objetivos profissionais e ambições.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "es.u05.l01",
+          "order": 1,
+          "title": "Carreira e Ambições",
+          "objective": "Discutir vida profissional e expressar metas futuras com segurança.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "es.u05.v01",
+              "term": "meta profesional",
+              "translation": "meta profissional",
+              "example": "Mi meta profesional es liderar proyectos sostenibles.",
+              "exampleTranslation": "Minha meta profissional é liderar projetos sustentáveis."
+            },
+            {
+              "id": "es.u05.v02",
+              "term": "alcanzar",
+              "translation": "alcançar / realizar",
+              "example": "Vamos a alcanzar todos los objetivos fijados.",
+              "exampleTranslation": "Alcançaremos todos os objetivos estabelecidos."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u05.g01",
+              "title": "Planos, Metas e Futuro",
+              "summary": "Construção de objetivos com verbos modais e estruturas de intenção.",
+              "examples": [
+                {
+                  "sentence": "Planeo trabajar en proyectos internacionales y liderar un equipo.",
+                  "translation": "Planejo trabalhar em projetos internacionais e liderar uma equipe."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u05.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual termo expressa objetivo profissional ou plano futuro?",
+              "correctAnswer": "meta profesional",
+              "options": [
+                "meta profesional",
+                "alcanzar",
+                "a veces"
+              ],
+              "explanation": "Vocabulário profissional indispensável para B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u06",
+      "order": 6,
+      "title": "Opiniões e Hipóteses",
+      "summary": "Argumentar, concordar, discordar e falar de situações hipotéticas.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "es.u06.l01",
+          "order": 1,
+          "title": "Expressando Pontos de Vista",
+          "objective": "Defender um ponto de vista com argumentos e orações condicionais.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "es.u06.v01",
+              "term": "en mi opinión",
+              "translation": "na minha opinião",
+              "example": "En mi opinión, el diálogo es fundamental.",
+              "exampleTranslation": "Na minha opinião, o diálogo é fundamental."
+            },
+            {
+              "id": "es.u06.v02",
+              "term": "hipótesis",
+              "translation": "hipótese",
+              "example": "La hipótesis fue confirmada en el estudio.",
+              "exampleTranslation": "A hipótese foi confirmada no estudo."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u06.g01",
+              "title": "Orações Condicionais e Hipóteses",
+              "summary": "Se eu tivesse tempo, viajaria mais. Estrutura de condição e consequência.",
+              "examples": [
+                {
+                  "sentence": "Si tuviéramos más tiempo y recursos, podríamos lanzar el proyecto antes.",
+                  "translation": "Se tivéssemos mais tempo e recursos, poderíamos lançar o projeto antes."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u06.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual expressão introduz uma opinião fundamentada?",
+              "correctAnswer": "en mi opinión",
+              "options": [
+                "en mi opinión",
+                "hipótesis",
+                "a veces"
+              ],
+              "explanation": "Conector argumentativo de nível B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u07",
+      "order": 7,
+      "title": "Sociedade e Tecnologia",
+      "summary": "Analisar impactos tecnológicos e transformações sociais contemporâneas.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "es.u07.l01",
+          "order": 1,
+          "title": "A Era Digital e Inovação",
+          "objective": "Expor argumentos complexos sobre tecnologia, sustentabilidade e inovação.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "es.u07.v01",
+              "term": "avance revolucionario",
+              "translation": "avanço decisivo",
+              "example": "Este avance revolucionario transformará la industria.",
+              "exampleTranslation": "Este avanço decisivo transformará a indústria."
+            },
+            {
+              "id": "es.u07.v02",
+              "term": "inteligencia artificial",
+              "translation": "inteligência artificial",
+              "example": "La inteligencia artificial optimiza diagnósticos médicos.",
+              "exampleTranslation": "A inteligência artificial otimiza diagnósticos médicos."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u07.g01",
+              "title": "Voz Passiva e Estruturas de Ênfase",
+              "summary": "Foco no processo e resultado em relatórios, notícias e textos técnicos.",
+              "examples": [
+                {
+                  "sentence": "Se han implementado algoritmos sofisticados para optimizar el transporte público.",
+                  "translation": "Algoritmos sofisticados foram implementados para otimizar o transporte público."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u07.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual conceito refere-se a avanço tecnológico contemporâneo?",
+              "correctAnswer": "avance revolucionario",
+              "options": [
+                "avance revolucionario",
+                "inteligencia artificial",
+                "a veces"
+              ],
+              "explanation": "Terminologia contemporânea de inovação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u08",
+      "order": 8,
+      "title": "Mídia, Notícias e Crítica",
+      "summary": "Interpretar matérias jornalísticas e estruturar relatórios analíticos.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "es.u08.l01",
+          "order": 1,
+          "title": "Compreensão de Mídia e Relatos",
+          "objective": "Sintetizar notícias, emitir juízos críticos e identificar fontes confiáveis.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "es.u08.v01",
+              "term": "pensamiento crítico",
+              "translation": "pensamento crítico",
+              "example": "El pensamiento crítico es indispensable para la ciudadanía.",
+              "exampleTranslation": "O pensamento crítico é indispensável para a cidadania."
+            },
+            {
+              "id": "es.u08.v02",
+              "term": "rigor informativo",
+              "translation": "rigor informativo",
+              "example": "Un reportaje elaborado con estricto rigor informativo.",
+              "exampleTranslation": "Uma reportagem elaborada com estrito rigor informativo."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u08.g01",
+              "title": "Discurso Indireto e Relato Crítico",
+              "summary": "Relatar declarações de terceiros e analisar fontes jornalísticas e acadêmicas.",
+              "examples": [
+                {
+                  "sentence": "Los investigadores informaron que el análisis empírico confirmó las hipótesis previas.",
+                  "translation": "Pesquisadores relataram que a análise empírica confirmou as hipóteses anteriores."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u08.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual palavra descreve uma perspectiva analítica crítica?",
+              "correctAnswer": "pensamiento crítico",
+              "options": [
+                "pensamiento crítico",
+                "rigor informativo",
+                "a veces"
+              ],
+              "explanation": "Vocabulário analítico de nível B2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u09",
+      "order": 9,
+      "title": "Negócios Globais e Diplomacia",
+      "summary": "Comunicação executiva de alto nível, acordos e retórica formal.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "es.u09.l01",
+          "order": 1,
+          "title": "Negociações e Retórica Formal",
+          "objective": "Utilizar vocabulário erudito e estruturas diplomáticas em debates formais.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "es.u09.v01",
+              "term": "alineación estratégica",
+              "translation": "alinhamento estratégico",
+              "example": "Consolidamos una alineación estratégica duradera.",
+              "exampleTranslation": "Consolidamos um alinhamento estratégico duradouro."
+            },
+            {
+              "id": "es.u09.v02",
+              "term": "consenso diplomático",
+              "translation": "consenso diplomático",
+              "example": "Se forjó un consenso diplomático trascendental.",
+              "exampleTranslation": "Forjou-se um consenso diplomático transcendental."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u09.g01",
+              "title": "Inversão Estilística e Diplomacia",
+              "summary": "Estruturas de alto prestígio utilizadas em negociações e ambientes executivos.",
+              "examples": [
+                {
+                  "sentence": "Raras veces una iniciativa diplomática había suscitado tal consenso institucional.",
+                  "translation": "Raras vezes uma iniciativa diplomática havia suscitado tal consenso institucional."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u09.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual termo é empregado em negociações estratégicas de alto escalão?",
+              "correctAnswer": "alineación estratégica",
+              "options": [
+                "alineación estratégica",
+                "consenso diplomático",
+                "a veces"
+              ],
+              "explanation": "Vocabulário executivo e diplomático refinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u10",
+      "order": 10,
+      "title": "Ensaios e Pensamento Científico",
+      "summary": "Interpretação de textos abstratos, metodologia e precisão lexical.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "es.u10.l01",
+          "order": 1,
+          "title": "Precisão Conceitual e Abstração",
+          "objective": "Produzir análises conceituais com alto rigor terminológico.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "es.u10.v01",
+              "term": "rigor epistemológico",
+              "translation": "rigor epistemológico",
+              "example": "Un análisis conducido con estricto rigor epistemológico.",
+              "exampleTranslation": "Uma análise conduzida com estrito rigor epistemológico."
+            },
+            {
+              "id": "es.u10.v02",
+              "term": "corroboración empírica",
+              "translation": "corroboração empírica",
+              "example": "La tesis halló sólida corroboración empírica en el laboratorio.",
+              "exampleTranslation": "A tese encontrou sólida corroboração empírica no laboratório."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u10.g01",
+              "title": "Conectores Argumentativos Complexos",
+              "summary": "Subordinação múltipla, paralelismo sintático e precisão epistemológica.",
+              "examples": [
+                {
+                  "sentence": "No obstante las discrepancias metodológicas, la evidencia empírica respalda la tesis central.",
+                  "translation": "Não obstante as discrepâncias metodológicas, a evidência empírica apoia a tese central."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u10.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual vocábulo exprime rigor metodológico ou abstração científica?",
+              "correctAnswer": "rigor epistemológico",
+              "options": [
+                "rigor epistemológico",
+                "corroboración empírica",
+                "a veces"
+              ],
+              "explanation": "Precisão conceitual avançada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u11",
+      "order": 11,
+      "title": "Expressões Idiomáticas e Provérbios",
+      "summary": "Sabedoria popular, metáforas históricas e jogos de palavras refinados.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "es.u11.l01",
+          "order": 1,
+          "title": "Provérbios e Idiomatismo Profundo",
+          "objective": "Dominar expressões idiomáticas autênticas e conotações culturais sutis.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "es.u11.v01",
+              "term": "por antonomasia",
+              "translation": "por excelência / quintessencial",
+              "example": "Es el exponente de la lírica castellana por antonomasia.",
+              "exampleTranslation": "É o expoente da lírica castelhana por antonomásia."
+            },
+            {
+              "id": "es.u11.v02",
+              "term": "efímero",
+              "translation": "efêmero",
+              "example": "Una reflexión sublime sobre lo efímero de la existencia.",
+              "exampleTranslation": "Uma reflexão sublime sobre a efemeridade da existência."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u11.g01",
+              "title": "Provérbios Históricos e Metáforas Enraizadas",
+              "summary": "Uso natural de expressões que carregam séculos de bagagem cultural nativa.",
+              "examples": [
+                {
+                  "sentence": "El tiempo todo lo cura, mas la perseverancia paciente es el cimiento de la maestría.",
+                  "translation": "O tempo tudo cura, mas a perseverança paciente é o alicerce da maestria."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u11.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual é um provérbio ou metáfora cultural consagrada no idioma?",
+              "correctAnswer": "por antonomasia",
+              "options": [
+                "por antonomasia",
+                "efímero",
+                "a veces"
+              ],
+              "explanation": "Expressão idiomática de maestria absoluta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "es.u12",
+      "order": 12,
+      "title": "Nuances Literárias e Maestria Estilística",
+      "summary": "Ironia, ambiguidade deliberada, estilos literários e maestria total.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "es.u12.l01",
+          "order": 1,
+          "title": "A Arte da Expressão Plena",
+          "objective": "Identificar e empregar ironia, alusões clássicas e cadência rítmica perfeita.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "es.u12.v01",
+              "term": "tapiz de la memoria",
+              "translation": "tecedura da memória",
+              "example": "Contempló el intrincado tapiz de la memoria humana.",
+              "exampleTranslation": "Contemplou a intrincada tecedura da memória humana."
+            },
+            {
+              "id": "es.u12.v02",
+              "term": "inefable",
+              "translation": "inefável",
+              "example": "Una inefable sensación de plenitud artística.",
+              "exampleTranslation": "Uma inefável sensação de plenitude artística."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "es.u12.g01",
+              "title": "Sutileza Estilística, Ironia e Cadência",
+              "summary": "Flutuação intencional de registros, jogos fonéticos e ambiguidade poética.",
+              "examples": [
+                {
+                  "sentence": "Con deliberada sutileza, el autor entretejió una ironía que reveló lo que el silencio callaba.",
+                  "translation": "Com deliberada sutileza, o autor entrelaçou uma ironia que revelou o que o silêncio calava."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "es.u12.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual termo captura com perfeição uma nuance estilística sofisticada?",
+              "correctAnswer": "tapiz de la memoria",
+              "options": [
+                "tapiz de la memoria",
+                "inefable",
+                "a veces"
+              ],
+              "explanation": "Maestria lexical e estilística máxima."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

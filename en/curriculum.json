@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "en",
+  "contentVersion": 2,
+  "contentStatus": "curated-complete",
+  "publishedAt": "2026-11-08T10:00:00Z",
+  "units": [
+    {
+      "id": "en.u01",
+      "order": 1,
+      "title": "Primeiros contatos",
+      "summary": "Cumprimentos, despedidas e apresentações básicas.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "en.u01.l01",
+          "order": 1,
+          "title": "Cumprimentos e Cortesia",
+          "objective": "Cumprimentar, agradecer e se despedir com naturalidade.",
+          "estimatedMinutes": 8,
+          "vocabulary": [
+            {
+              "id": "en.u01.l01.v01",
+              "term": "hello",
+              "translation": "olá",
+              "example": "Hello, how are you?",
+              "exampleTranslation": "Olá, como você está?"
+            },
+            {
+              "id": "en.u01.l01.v02",
+              "term": "good morning",
+              "translation": "bom dia",
+              "example": "Good morning, everyone.",
+              "exampleTranslation": "Bom dia a todos."
+            },
+            {
+              "id": "en.u01.l01.v03",
+              "term": "goodbye",
+              "translation": "tchau / adeus",
+              "example": "Goodbye, see you tomorrow.",
+              "exampleTranslation": "Tchau, até amanhã."
+            },
+            {
+              "id": "en.u01.l01.v04",
+              "term": "please",
+              "translation": "por favor",
+              "example": "Water, please.",
+              "exampleTranslation": "Água, por favor."
+            },
+            {
+              "id": "en.u01.l01.v05",
+              "term": "thank you",
+              "translation": "obrigado(a)",
+              "example": "Thank you very much.",
+              "exampleTranslation": "Muito obrigado."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u01.g01",
+              "title": "Tratamento Formal vs. Informal",
+              "summary": "Distinção essencial de polidez em situações sociais e profissionais cotidianas.",
+              "examples": [
+                {
+                  "sentence": "Good morning, Mr. Davis. How are you?",
+                  "translation": "Bom dia, Sr. Davis. Como o senhor está?",
+                  "note": "formal"
+                },
+                {
+                  "sentence": "Hi Sarah! How’s it going?",
+                  "translation": "Oi Sarah! Como vão as coisas?",
+                  "note": "informal"
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u01.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Qual das opções significa \"olá\"?",
+              "correctAnswer": "hello",
+              "options": [
+                "hello",
+                "good morning",
+                "goodbye",
+                "please"
+              ],
+              "explanation": "Expressão básica de cumprimento no idioma."
+            },
+            {
+              "id": "en.u01.e02",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir algo educadamente usando \"por favor\"?",
+              "correctAnswer": "please",
+              "options": [
+                "please",
+                "hello",
+                "good morning",
+                "goodbye"
+              ],
+              "explanation": "Fórmula essencial de cortesia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u02",
+      "order": 2,
+      "title": "Vida Cotidiana e Números",
+      "summary": "Números, horas, café e objetos do dia a dia.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "en.u02.l01",
+          "order": 1,
+          "title": "No Café e Pedidos Simples",
+          "objective": "Pedir alimentos, bebidas e perguntar preços.",
+          "estimatedMinutes": 10,
+          "vocabulary": [
+            {
+              "id": "en.u02.v01",
+              "term": "the bill",
+              "translation": "a conta (restaurante)",
+              "example": "Could we have the bill, please?",
+              "exampleTranslation": "Poderia trazer a conta, por favor?"
+            },
+            {
+              "id": "en.u02.v02",
+              "term": "how much is it?",
+              "translation": "quanto custa?",
+              "example": "Excuse me, how much is this coffee?",
+              "exampleTranslation": "Com licença, quanto custa este café?"
+            },
+            {
+              "id": "en.u02.v03",
+              "term": "water",
+              "translation": "água",
+              "example": "Still water, please.",
+              "exampleTranslation": "Água sem gás, por favor."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u02.g01",
+              "title": "Artigos e Quantidades",
+              "summary": "Uso correto de artigos definidos e indefinidos com numerais e substantivos contáveis.",
+              "examples": [
+                {
+                  "sentence": "Two coffees and one mineral water, please.",
+                  "translation": "Dois cafés e uma água mineral, por favor."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u02.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir a conta ou saber o preço?",
+              "correctAnswer": "the bill",
+              "options": [
+                "the bill",
+                "how much is it?",
+                "water"
+              ],
+              "explanation": "Expressão padrão de atendimento em estabelecimentos comerciais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u03",
+      "order": 3,
+      "title": "Rotina e Tempo Livre",
+      "summary": "Falar sobre hábitos, horários e atividades de lazer.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "en.u03.l01",
+          "order": 1,
+          "title": "Um Dia Típico",
+          "objective": "Descrever sua rotina diária e atividades de fim de semana.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "en.u03.v01",
+              "term": "daily routine",
+              "translation": "rotina diária",
+              "example": "My daily routine starts at 7 AM.",
+              "exampleTranslation": "Minha rotina diária começa às 7h."
+            },
+            {
+              "id": "en.u03.v02",
+              "term": "to wake up",
+              "translation": "acordar",
+              "example": "I wake up early on weekdays.",
+              "exampleTranslation": "Eu acordo cedo nos dias úteis."
+            },
+            {
+              "id": "en.u03.v03",
+              "term": "subway station",
+              "translation": "estação de metrô",
+              "example": "The subway station is near my house.",
+              "exampleTranslation": "A estação de metrô fica perto da minha casa."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u03.g01",
+              "title": "Expressando Frequência e Rotina",
+              "summary": "Advérbios de tempo e conectores de sequência (primeiro, depois, finalmente).",
+              "examples": [
+                {
+                  "sentence": "I wake up early every day and take the bus to work.",
+                  "translation": "Eu acordo cedo todos os dias e pego o ônibus para trabalhar."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u03.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual expressão descreve uma atividade cotidiana regular?",
+              "correctAnswer": "daily routine",
+              "options": [
+                "daily routine",
+                "to wake up",
+                "subway station"
+              ],
+              "explanation": "Indica hábito estabelecido e frequência temporal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u04",
+      "order": 4,
+      "title": "Viagens e Lembranças do Passado",
+      "summary": "Contar fatos passados e experiências de viagem.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "en.u04.l01",
+          "order": 1,
+          "title": "Minha Última Viagem",
+          "objective": "Narrar eventos ocorridos no passado e descrever locais visitados.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "en.u04.v01",
+              "term": "journey",
+              "translation": "viagem / jornada",
+              "example": "The train journey was beautiful.",
+              "exampleTranslation": "A viagem de trem foi linda."
+            },
+            {
+              "id": "en.u04.v02",
+              "term": "historical site",
+              "translation": "ponto histórico",
+              "example": "We visited an ancient historical site.",
+              "exampleTranslation": "Visitamos um sítio histórico antigo."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u04.g01",
+              "title": "Narrando Eventos Passados",
+              "summary": "Contraste entre ações pontuais concluídas e descrições de contexto no passado.",
+              "examples": [
+                {
+                  "sentence": "Last year I visited historical cities and learned a lot.",
+                  "translation": "No ano passado visitei cidades históricas e aprendi muito."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u04.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual termo expressa uma viagem ou experiência concluída no passado?",
+              "correctAnswer": "journey",
+              "options": [
+                "journey",
+                "historical site",
+                "sometimes"
+              ],
+              "explanation": "Marca temporal de passado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u05",
+      "order": 5,
+      "title": "Trabalho e Projetos Futuros",
+      "summary": "Expressar planos, objetivos profissionais e ambições.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "en.u05.l01",
+          "order": 1,
+          "title": "Carreira e Ambições",
+          "objective": "Discutir vida profissional e expressar metas futuras com segurança.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "en.u05.v01",
+              "term": "career goal",
+              "translation": "meta profissional",
+              "example": "My career goal is to become an architect.",
+              "exampleTranslation": "Minha meta profissional é me tornar um arquiteto."
+            },
+            {
+              "id": "en.u05.v02",
+              "term": "to accomplish",
+              "translation": "realizar / cumprir",
+              "example": "Together we will accomplish this milestone.",
+              "exampleTranslation": "Juntos alcançaremos este marco."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u05.g01",
+              "title": "Planos, Metas e Futuro",
+              "summary": "Construção de objetivos com verbos modais e estruturas de intenção.",
+              "examples": [
+                {
+                  "sentence": "I plan to work on international projects and lead a team.",
+                  "translation": "Planejo trabalhar em projetos internacionais e liderar uma equipe."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u05.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual termo expressa objetivo profissional ou plano futuro?",
+              "correctAnswer": "career goal",
+              "options": [
+                "career goal",
+                "to accomplish",
+                "sometimes"
+              ],
+              "explanation": "Vocabulário profissional indispensável para B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u06",
+      "order": 6,
+      "title": "Opiniões e Hipóteses",
+      "summary": "Argumentar, concordar, discordar e falar de situações hipotéticas.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "en.u06.l01",
+          "order": 1,
+          "title": "Expressando Pontos de Vista",
+          "objective": "Defender um ponto de vista com argumentos e orações condicionais.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "en.u06.v01",
+              "term": "in my opinion",
+              "translation": "na minha opinião",
+              "example": "In my opinion, renewable energy is essential.",
+              "exampleTranslation": "Na minha opinião, energia renovável é essencial."
+            },
+            {
+              "id": "en.u06.v02",
+              "term": "hypothesis",
+              "translation": "hipótese",
+              "example": "We tested several alternative hypotheses.",
+              "exampleTranslation": "Testamos várias hipóteses alternativas."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u06.g01",
+              "title": "Orações Condicionais e Hipóteses",
+              "summary": "Se eu tivesse tempo, viajaria mais. Estrutura de condição e consequência.",
+              "examples": [
+                {
+                  "sentence": "If we had more time and resources, we could launch the project sooner.",
+                  "translation": "Se tivéssemos mais tempo e recursos, poderíamos lançar o projeto mais cedo."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u06.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual expressão introduz uma opinião fundamentada?",
+              "correctAnswer": "in my opinion",
+              "options": [
+                "in my opinion",
+                "hypothesis",
+                "sometimes"
+              ],
+              "explanation": "Conector argumentativo de nível B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u07",
+      "order": 7,
+      "title": "Sociedade e Tecnologia",
+      "summary": "Analisar impactos tecnológicos e transformações sociais contemporâneas.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "en.u07.l01",
+          "order": 1,
+          "title": "A Era Digital e Inovação",
+          "objective": "Expor argumentos complexos sobre tecnologia, sustentabilidade e inovação.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "en.u07.v01",
+              "term": "breakthrough",
+              "translation": "avanço / avanço decisivo",
+              "example": "A medical breakthrough saved countless lives.",
+              "exampleTranslation": "Um avanço médico salvou incontáveis vidas."
+            },
+            {
+              "id": "en.u07.v02",
+              "term": "artificial intelligence",
+              "translation": "inteligência artificial",
+              "example": "Artificial intelligence transforms modern productivity.",
+              "exampleTranslation": "A inteligência artificial transforma a produtividade moderna."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u07.g01",
+              "title": "Voz Passiva e Estruturas de Ênfase",
+              "summary": "Foco no processo e resultado em relatórios, notícias e textos técnicos.",
+              "examples": [
+                {
+                  "sentence": "Sophisticated algorithms have been deployed to optimize public transit.",
+                  "translation": "Algoritmos sofisticados têm sido implementados para otimizar o transporte público."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u07.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual conceito refere-se a avanço tecnológico contemporâneo?",
+              "correctAnswer": "breakthrough",
+              "options": [
+                "breakthrough",
+                "artificial intelligence",
+                "sometimes"
+              ],
+              "explanation": "Terminologia contemporânea de inovação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u08",
+      "order": 8,
+      "title": "Mídia, Notícias e Crítica",
+      "summary": "Interpretar matérias jornalísticas e estruturar relatórios analíticos.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "en.u08.l01",
+          "order": 1,
+          "title": "Compreensão de Mídia e Relatos",
+          "objective": "Sintetizar notícias, emitir juízos críticos e identificar fontes confiáveis.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "en.u08.v01",
+              "term": "critical thinking",
+              "translation": "pensamento crítico",
+              "example": "Critical thinking allows us to evaluate biased news.",
+              "exampleTranslation": "O pensamento crítico nos permite avaliar notícias parciais."
+            },
+            {
+              "id": "en.u08.v02",
+              "term": "journalistic integrity",
+              "translation": "integridade jornalística",
+              "example": "We uphold the highest journalistic integrity.",
+              "exampleTranslation": "Preservamos a mais alta integridade jornalística."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u08.g01",
+              "title": "Discurso Indireto e Relato Crítico",
+              "summary": "Relatar declarações de terceiros e analisar fontes jornalísticas e acadêmicas.",
+              "examples": [
+                {
+                  "sentence": "Researchers reported that empirical analysis corroborated previous hypotheses.",
+                  "translation": "Pesquisadores relataram que a análise empírica corroborou as hipóteses anteriores."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u08.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual palavra descreve uma perspectiva analítica crítica?",
+              "correctAnswer": "critical thinking",
+              "options": [
+                "critical thinking",
+                "journalistic integrity",
+                "sometimes"
+              ],
+              "explanation": "Vocabulário analítico de nível B2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u09",
+      "order": 9,
+      "title": "Negócios Globais e Diplomacia",
+      "summary": "Comunicação executiva de alto nível, acordos e retórica formal.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "en.u09.l01",
+          "order": 1,
+          "title": "Negociações e Retórica Formal",
+          "objective": "Utilizar vocabulário erudito e estruturas diplomáticas em debates formais.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "en.u09.v01",
+              "term": "strategic alignment",
+              "translation": "alinhamento estratégico",
+              "example": "We achieved strategic alignment across all departments.",
+              "exampleTranslation": "Alcançamos alinhamento estratégico entre todas as áreas."
+            },
+            {
+              "id": "en.u09.v02",
+              "term": "diplomatic consensus",
+              "translation": "consenso diplomático",
+              "example": "The summit concluded with unanimous diplomatic consensus.",
+              "exampleTranslation": "A cúpula concluiu com consenso diplomático unânime."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u09.g01",
+              "title": "Inversão Estilística e Diplomacia",
+              "summary": "Estruturas de alto prestígio utilizadas em negociações e ambientes executivos.",
+              "examples": [
+                {
+                  "sentence": "Seldom has a diplomatic initiative produced such widespread institutional harmony.",
+                  "translation": "Raras vezes uma iniciativa diplomática produziu tamanha harmonia institucional."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u09.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual termo é empregado em negociações estratégicas de alto escalão?",
+              "correctAnswer": "strategic alignment",
+              "options": [
+                "strategic alignment",
+                "diplomatic consensus",
+                "sometimes"
+              ],
+              "explanation": "Vocabulário executivo e diplomático refinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u10",
+      "order": 10,
+      "title": "Ensaios e Pensamento Científico",
+      "summary": "Interpretação de textos abstratos, metodologia e precisão lexical.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "en.u10.l01",
+          "order": 1,
+          "title": "Precisão Conceitual e Abstração",
+          "objective": "Produzir análises conceituais com alto rigor terminológico.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "en.u10.v01",
+              "term": "epistemological rigor",
+              "translation": "rigor epistemológico",
+              "example": "The treatise demonstrates exceptional epistemological rigor.",
+              "exampleTranslation": "O tratado demonstra excepcional rigor epistemológico."
+            },
+            {
+              "id": "en.u10.v02",
+              "term": "empirical corroboration",
+              "translation": "corroboração empírica",
+              "example": "The theory received overwhelming empirical corroboration.",
+              "exampleTranslation": "A teoria recebeu robusta corroboração empírica."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u10.g01",
+              "title": "Conectores Argumentativos Complexos",
+              "summary": "Subordinação múltipla, paralelismo sintático e precisão epistemológica.",
+              "examples": [
+                {
+                  "sentence": "Notwithstanding notable discrepancies, empirical findings substantiate the core thesis.",
+                  "translation": "Não obstante divergências notáveis, os achados empíricos fundamentam a tese central."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u10.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual vocábulo exprime rigor metodológico ou abstração científica?",
+              "correctAnswer": "epistemological rigor",
+              "options": [
+                "epistemological rigor",
+                "empirical corroboration",
+                "sometimes"
+              ],
+              "explanation": "Precisão conceitual avançada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u11",
+      "order": 11,
+      "title": "Expressões Idiomáticas e Provérbios",
+      "summary": "Sabedoria popular, metáforas históricas e jogos de palavras refinados.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "en.u11.l01",
+          "order": 1,
+          "title": "Provérbios e Idiomatismo Profundo",
+          "objective": "Dominar expressões idiomáticas autênticas e conotações culturais sutis.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "en.u11.v01",
+              "term": "quintessential",
+              "translation": "arquetípico / por excelência",
+              "example": "This sonnet is the quintessential Victorian tribute.",
+              "exampleTranslation": "Este soneto é o tributo vitoriano arquetípico."
+            },
+            {
+              "id": "en.u11.v02",
+              "term": "ephemeral",
+              "translation": "efêmero / passageiro",
+              "example": "They reflected on the ephemeral beauty of youth.",
+              "exampleTranslation": "Eles refletiram sobre a beleza efêmera da juventude."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u11.g01",
+              "title": "Provérbios Históricos e Metáforas Enraizadas",
+              "summary": "Uso natural de expressões que carregam séculos de bagagem cultural nativa.",
+              "examples": [
+                {
+                  "sentence": "Time heals all wounds, yet persistent dedication remains the cornerstone of mastery.",
+                  "translation": "O tempo cura todas as feridas, contudo a dedicação perseverante permanece a pedra fundamental do domínio."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u11.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual é um provérbio ou metáfora cultural consagrada no idioma?",
+              "correctAnswer": "quintessential",
+              "options": [
+                "quintessential",
+                "ephemeral",
+                "sometimes"
+              ],
+              "explanation": "Expressão idiomática de maestria absoluta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en.u12",
+      "order": 12,
+      "title": "Nuances Literárias e Maestria Estilística",
+      "summary": "Ironia, ambiguidade deliberada, estilos literários e maestria total.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "en.u12.l01",
+          "order": 1,
+          "title": "A Arte da Expressão Plena",
+          "objective": "Identificar e empregar ironia, alusões clássicas e cadência rítmica perfeita.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "en.u12.v01",
+              "term": "tapestry of memory",
+              "translation": "tecedura da memória",
+              "example": "He contemplated the intricate tapestry of human memory.",
+              "exampleTranslation": "Ele contemplou a intrincada tecedura da memória humana."
+            },
+            {
+              "id": "en.u12.v02",
+              "term": "ineffable",
+              "translation": "inefável / indescritível",
+              "example": "An ineffable sense of poetic harmony filled the silence.",
+              "exampleTranslation": "Uma inefável sensação de harmonia poética preencheu o silêncio."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "en.u12.g01",
+              "title": "Sutileza Estilística, Ironia e Cadência",
+              "summary": "Flutuação intencional de registros, jogos fonéticos e ambiguidade poética.",
+              "examples": [
+                {
+                  "sentence": "With deliberate subtlety, the author wove irony that illuminated what silence had concealed.",
+                  "translation": "Com deliberada sutileza, o autor teceu uma ironia que iluminou o que o silêncio havia ocultado."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "en.u12.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual termo captura com perfeição uma nuance estilística sofisticada?",
+              "correctAnswer": "tapestry of memory",
+              "options": [
+                "tapestry of memory",
+                "ineffable",
+                "sometimes"
+              ],
+              "explanation": "Maestria lexical e estilística máxima."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

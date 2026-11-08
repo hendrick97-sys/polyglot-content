@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "es",
+  "contentVersion": 2,
+  "stories": [
+    {
+      "id": "es.s01",
+      "title": "At the Cafe (A1)",
+      "level": "A1",
+      "unitId": "es.u01",
+      "genre": "Cotidiano",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "Leo entra en una cafetería tranquila en el centro. El aire matutino es fresco.",
+        "Pide un café solo caliente y un cruasán recién horneado.",
+        "El camarero sonríe y dice: \"¡Que tengas un día maravilloso!\""
+      ],
+      "translations": [
+        "Leo entra em uma cafeteria tranquila no centro. O ar da manhã está fresco.",
+        "Pede um café preto quente e um croissant recém-assado.",
+        "O atendente sorri e diz: \"Tenha um dia maravilhoso!\""
+      ],
+      "questions": [
+        {
+          "id": "es.s01.q01",
+          "kind": "multipleChoice",
+          "level": "A1",
+          "prompt": "¿Qué pidió Leo en la cafetería?",
+          "correctAnswer": "Café y cruasán",
+          "options": [
+            "Café y cruasán",
+            "Té y sándwich",
+            "Agua y fruta"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cafe",
+          "translation": "café",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "es.s02",
+      "title": "Train Journey to the Coast (A2)",
+      "level": "A2",
+      "unitId": "es.u01",
+      "genre": "Viagens",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "El sábado pasado, Sofía tomó un tren regional temprano hacia la costa.",
+        "Caminó por la orilla del mar y escuchó el rumor de las olas.",
+        "Por la noche, regresó a casa sintiéndose renovada e inspirada."
+      ],
+      "translations": [
+        "No sábado passado, Sofia pegou um trem regional cedo rumo à costa.",
+        "Caminhou pela orla do mar e escutou o rumor das ondas.",
+        "À noite, retornou para casa sentindo-se renovada e inspirada."
+      ],
+      "questions": [
+        {
+          "id": "es.s02.q01",
+          "kind": "multipleChoice",
+          "level": "A2",
+          "prompt": "¿A dónde viajó Sofía el sábado pasado?",
+          "correctAnswer": "A la costa en tren",
+          "options": [
+            "A la costa en tren",
+            "A la montaña en coche",
+            "A la oficina"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "coast",
+          "translation": "litoral / costa",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "es.s03",
+      "title": "The Team Sprint (B1)",
+      "level": "B1",
+      "unitId": "es.u01",
+      "genre": "Trabalho",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Nuestro equipo de desarrollo inició esta mañana un sprint de dos semanas.",
+        "Revisamos con detalle los diagramas y priorizamos el rendimiento del sistema.",
+        "Si colaboramos con eficacia, el lanzamiento superará todas las expectativas."
+      ],
+      "translations": [
+        "Nossa equipe de desenvolvimento iniciou esta manhã um sprint de duas semanas.",
+        "Revisamos detalhadamente os diagramas e priorizamos o desempenho do sistema.",
+        "Se colaborarmos com eficácia, o lançamento superará todas as expectativas."
+      ],
+      "questions": [
+        {
+          "id": "es.s03.q01",
+          "kind": "multipleChoice",
+          "level": "B1",
+          "prompt": "¿Cuál fue el enfoque principal del equipo?",
+          "correctAnswer": "Arquitectura y rendimiento del sistema",
+          "options": [
+            "Arquitectura y rendimiento del sistema",
+            "Vacaciones",
+            "Mobiliario"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "es.s04",
+      "title": "The Mountain Observatory (B2)",
+      "level": "B2",
+      "unitId": "es.u01",
+      "genre": "Ficção",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Encaramado en una cresta escarpada de granito, el antiguo observatorio astronómico dominaba el firmamento nocturno.",
+        "Elena calibró el espectrógrafo y detectó una longitud de onda anómala pulsando desde un sector desconocido.",
+        "Aquel hallazgo empírico desafiaba los paradigmas vigentes y demandaba una rigurosa revisión internacional."
+      ],
+      "translations": [
+        "Situado em uma crista escarpada de granito, o antigo observatório astronômico dominava o firmamento noturno.",
+        "Elena calibrou o espectrógrafo e detectou um comprimento de onda anômalo pulsando de um setor desconhecido.",
+        "Aquela descoberta empírica desafiava os paradigmas vigentes e demandava uma rigorosa revisão internacional."
+      ],
+      "questions": [
+        {
+          "id": "es.s04.q01",
+          "kind": "multipleChoice",
+          "level": "B2",
+          "prompt": "¿Qué detectó Elena en el observatorio?",
+          "correctAnswer": "Una longitud de onda anómala",
+          "options": [
+            "Una longitud de onda anómala",
+            "Un fallo eléctrico",
+            "Nubes densas"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "es.s05",
+      "title": "Frontiers of Intelligence and Ethics (C1)",
+      "level": "C1",
+      "unitId": "es.u01",
+      "genre": "Ciência",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "La proliferación de arquitecturas cognitivas autónomas impele a las sociedades a reexaminar los postulados de la responsabilidad ética.",
+        "Cuando el procesamiento algorítmico excede la velocidad heurística humana, la opacidad epistémica deviene un desafío crucial de gobernanza.",
+        "Únicamente cimentando la ambición tecnológica en un escrutinio multidisciplinario podrá preservarse la integridad institucional."
+      ],
+      "translations": [
+        "A proliferação de arquiteturas cognitivas autônomas impele as sociedades a reexaminar os postulados da responsabilidade ética.",
+        "Quando o processamento algorítmico excede a velocidade heurística humana, a opacidade epistêmica torna-se um desafio crucial de governança.",
+        "Unicamente alicerçando a ambição tecnológica em um escrutínio multidisciplinar poderá preservar-se a integridade institucional."
+      ],
+      "questions": [
+        {
+          "id": "es.s05.q01",
+          "kind": "multipleChoice",
+          "level": "C1",
+          "prompt": "¿Cuál es el desafío de gobernanza señalado en el texto?",
+          "correctAnswer": "La opacidad epistémica de los algoritmos",
+          "options": [
+            "La opacidad epistémica de los algoritmos",
+            "El precio del hardware",
+            "La falta de programadores"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "governance",
+          "translation": "governança / controle",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "es.s06",
+      "title": "The Tapestry of Ephemerality (C2)",
+      "level": "C2",
+      "unitId": "es.u01",
+      "genre": "Literatura",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "En el crepúsculo de la antigüedad, los filósofos concibieron la memoria no como un archivo de hechos petrificados, sino como un tapiz fluctuante de silencios y nostalgias.",
+        "Leer entre líneas de la gran prosa castellana exige discernir la cadencia sutil de palabras que velan su significado primordial.",
+        "La maestría expresiva alcanza su cenit cuando el hablante utiliza la ambigüedad no como artificio, sino como prisma supremo del alma humana."
+      ],
+      "translations": [
+        "No crepúsculo da antiguidade, os filósofos conceberam a memória não como um arquivo de fatos petrificados, mas como um tapiz oscilante de silêncios e nostalgias.",
+        "Ler nas entrelinhas da grande prosa castelhana exige discernir a cadência sutil de palavras que velam seu significado primordial.",
+        "A maestria expressiva alcança seu zênite quando o falante utiliza a ambiguidade não como artifício, mas como prisma supremo da alma humana."
+      ],
+      "questions": [
+        {
+          "id": "es.s06.q01",
+          "kind": "multipleChoice",
+          "level": "C2",
+          "prompt": "¿Cómo se define el cenit de la maestría expresiva en el texto?",
+          "correctAnswer": "Utilizar la ambigüedad como prisma humano",
+          "options": [
+            "Utilizar la ambigüedad como prisma humano",
+            "Hablar sin pausas",
+            "Traducir palabra por palabra"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    }
+  ]
+}

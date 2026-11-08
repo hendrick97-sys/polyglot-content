@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "ru",
+  "contentVersion": 2,
+  "stories": [
+    {
+      "id": "ru.s01",
+      "title": "At the Cafe (A1)",
+      "level": "A1",
+      "unitId": "ru.u01",
+      "genre": "Cotidiano",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "Лео заходит в тихое кафе в центре города. Утренний воздух свеж.",
+        "Он заказывает горячий кофе и свежий круассан.",
+        "Бариста улыбается и говорит: \"Прекрасного вам дня!\""
+      ],
+      "translations": [
+        "Leo entra em um café tranquilo no centro da cidade. O ar da manhã é fresco.",
+        "Ele pede um café quente e um croissant fresco.",
+        "A atendente sorri e diz: \"Tenha um dia maravilhoso!\""
+      ],
+      "transliterations": [
+        "Leo zakhodit v tikhoe kafe v tsentre goroda. Utrenniy vozdukh svezh.",
+        "On zakazyvaet goryachiy kofe i svezhiy kruassan.",
+        "Barista ulybaetsya i govorit: \"Prekrasnogo vam dnya!\""
+      ],
+      "questions": [
+        {
+          "id": "ru.s01.q01",
+          "kind": "multipleChoice",
+          "level": "A1",
+          "prompt": "Что Лео заказал в кафе?",
+          "correctAnswer": "Кофе и круассан",
+          "options": [
+            "Кофе и круассан",
+            "Чай и бутерброд",
+            "Воду и яблоко"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cafe",
+          "translation": "café",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ru.s02",
+      "title": "Train Journey to the Coast (A2)",
+      "level": "A2",
+      "unitId": "ru.u01",
+      "genre": "Viagens",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "В прошлую субботу София села на утренний поезд к морскому побережью.",
+        "Она гуляла вдоль берега и слушала спокойный шум волн.",
+        "Вечером она вернулась домой отдохнувшей и вдохновлённой."
+      ],
+      "translations": [
+        "No sábado passado, Sofia embarcou no trem matinal rumo à costa marítima.",
+        "Ela caminhou ao longo da praia e ouviu o som sereno das ondas.",
+        "À noite voltou para casa descansada e inspirada."
+      ],
+      "transliterations": [
+        "V proshluyu subbotu Sofiya sela na utrenniy poezd k morskomu poberezh’yu.",
+        "Ona gulyala vdol’ berega i slushala spokoynyy shum voln.",
+        "Vecherom ona vernulas’ domoy otdokhnuvshey i vdokhnovlyonnoy."
+      ],
+      "questions": [
+        {
+          "id": "ru.s02.q01",
+          "kind": "multipleChoice",
+          "level": "A2",
+          "prompt": "Куда отправилась София в прошлую субботу?",
+          "correctAnswer": "К побережью на поезде",
+          "options": [
+            "К побережью на поезде",
+            "В горы на машине",
+            "На работу"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "coast",
+          "translation": "litoral / costa",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ru.s03",
+      "title": "The Team Sprint (B1)",
+      "level": "B1",
+      "unitId": "ru.u01",
+      "genre": "Trabalho",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Наша команда разработчиков начала сегодня двухнедельный рабочий спринт.",
+        "Мы детально изучили архитектуру и сосредоточились на производительности бэкенда.",
+        "Если мы сохраним слаженность, релиз превзойдёт все ожидания клиентов."
+      ],
+      "translations": [
+        "Nossa equipe de desenvolvedores começou hoje um sprint de trabalho de duas semanas.",
+        "Examinamos em detalhes a arquitetura e focamos na performance do backend.",
+        "Se mantivermos a sintonia, o lançamento superará todas as expectativas dos clientes."
+      ],
+      "transliterations": [
+        "Nasha komanda razrabotchikov nachala segodnya dvukhnedel’nyy rabochiy sprint.",
+        "My detal’no izuchili arkhitekturu i sosredotochilis’ na proizvoditel’nosti bekenda.",
+        "Yesli my sokhranim slazhennost’, reliz prevzoydyot vse ozhidaniya klientov."
+      ],
+      "questions": [
+        {
+          "id": "ru.s03.q01",
+          "kind": "multipleChoice",
+          "level": "B1",
+          "prompt": "В чём заключался главный фокус команды?",
+          "correctAnswer": "Архитектура и производительность ПО",
+          "options": [
+            "Архитектура и производительность ПО",
+            "График отпусков",
+            "Обеденный перерыв"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ru.s04",
+      "title": "The Mountain Observatory (B2)",
+      "level": "B2",
+      "unitId": "ru.u01",
+      "genre": "Ficção",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Расположенная на гранитном хребте старая астрономическая обсерватория открывала безупречный обзор созвездий.",
+        "Елена откалибровала спектрограф и зафиксировала аномальное излучение, исходящее из неизведанного сектора.",
+        "Это эмпирическое открытие бросило вызов существующим парадигмам и потребовало экспертной проверки."
+      ],
+      "translations": [
+        "Situada sobre uma crista de granito, a antiga observatório astronômico abria uma vista impecável das constelações.",
+        "Elena calibrou o espectrógrafo e registrou uma radiação anômala proveniente de um setor inexplorado.",
+        "Esta descoberta empírica desafiou paradigmas vigentes e exigiu verificação especializada."
+      ],
+      "transliterations": [
+        "Raspolozhennaya na granitnom khrebte staraya astronomicheskaya observatoriya otkryvala bezuprechnyy obzor sozvezdiy.",
+        "Elena otkalibrovala spektrograf i zafiksirovala anomal’noe izluchenie, iskhodyashchee iz neizvedannogo sektora.",
+        "Eto empiricheskoe otkrytie brosilo vyzov sushchestvuyushchim paradigmam i potrebovalo ekspertnoy proverki."
+      ],
+      "questions": [
+        {
+          "id": "ru.s04.q01",
+          "kind": "multipleChoice",
+          "level": "B2",
+          "prompt": "Что зафиксировала Елена с помощью спектрографа?",
+          "correctAnswer": "Аномальное излучение",
+          "options": [
+            "Аномальное излучение",
+            "Сломанную оптику",
+            "Вспышку молнии"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ru.s05",
+      "title": "Frontiers of Intelligence and Ethics (C1)",
+      "level": "C1",
+      "unitId": "ru.u01",
+      "genre": "Ciência",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "Стремительное развитие автономных когнитивных архитектур побуждает общество пересмотреть фундаментальные основы этической ответственности.",
+        "Когда скорость алгоритмических вычислений превосходит эвристический потенциал человека, эпистемологическая непрозрачность становится вызовом.",
+        "Лишь при условии подчинения технологий междисциплинарному контролю возможно сохранить стабильность институтов."
+      ],
+      "translations": [
+        "O rápido desenvolvimento de arquiteturas cognitivas autônomas incita a sociedade a revisar as bases fundamentais da responsabilidade ética.",
+        "Quando a velocidade dos cálculos algorítmicos supera o potencial heurístico humano, a opacidade epistemológica torna-se um desafio.",
+        "Apenas sob a condição de submeter as tecnologias a controle interdisciplinar é possível preservar a estabilidade das instituições."
+      ],
+      "transliterations": [
+        "Stremitel’noe razvitie avtonomnykh kognitivnykh arkhitektur pobuzhdaet obshchestvo peresmotret’ fundamental’nye osnovy eticheskoy otvetstvennosti.",
+        "Kogda skorost’ algoritmicheskikh vychisleniy prevoskhodit evristicheskiy potentsial cheloveka, epistemologicheskaya neprozrachnost’ stanovitsya vyzovom.",
+        "Lish’ pri uslovii podchineniya tekhnologiy mezhdistsiplinarnomu kontrolyu vozmozhno sokhranit’ stabil’nost’ institutov."
+      ],
+      "questions": [
+        {
+          "id": "ru.s05.q01",
+          "kind": "multipleChoice",
+          "level": "C1",
+          "prompt": "Что называется главным вызовом управления в тексте?",
+          "correctAnswer": "Эпистемологическая непрозрачность алгоритмов",
+          "options": [
+            "Эпистемологическая непрозрачность алгоритмов",
+            "Стоимость компьютерного оборудования",
+            "Нехватка специалистов"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "governance",
+          "translation": "governança / controle",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "ru.s06",
+      "title": "The Tapestry of Ephemerality (C2)",
+      "level": "C2",
+      "unitId": "ru.u01",
+      "genre": "Literatura",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "В сумерках философских размышлений память предстаёт не застывшим архивом минувших дней, но зыбким полотном, сотканным из молчания и ностальгии.",
+        "Чтение между строк классической прозы позволяет уловить тончайшие обертоны слов, избегающих прямолинейных суждений.",
+        "Высшее мастерство владения словом достигается тогда, когда недосказанность становится глубочайшим отражением человеческого духа."
+      ],
+      "translations": [
+        "Nos crepúsculos das reflexões filosóficas, a memória apresenta-se não como um arquivo petrificado de dias passados, mas como uma tela sutil tecida de silêncio e nostalgia.",
+        "Ler nas entrelinhas da prosa clássica permite captar os mais sutis sobretons de palavras que evitam julgamentos diretos.",
+        "A maestria máxima no domínio da palavra alcança-se quando a sugestão tácita se transforma no mais profundo reflexo do espírito humano."
+      ],
+      "transliterations": [
+        "V sumerkakh filosofskikh razmyshleniy pamyat’ predstayot ne zastyvshim arkhivom minuvshikh dney, no zybkim polotnom, sotkannym iz molchaniya i nostal’gii.",
+        "Chtenie mezhdu strok klassicheskoy prozy pozvolyaet ulovit’ tonchayshie obertony slov, izbegayushchikh pryamolineynykh suzhdeniy.",
+        "Vysshee masterstvo vladeniya slovom dostigaetsya togda, kogda nedoskazannost’ stanovitsya glubochayshim otrazheniem chelovecheskogo dukha."
+      ],
+      "questions": [
+        {
+          "id": "ru.s06.q01",
+          "kind": "multipleChoice",
+          "level": "C2",
+          "prompt": "В чём заключается высшее мастерство слова согласно тексту?",
+          "correctAnswer": "Когда недосказанность отражает глубину духа",
+          "options": [
+            "Когда недосказанность отражает глубину духа",
+            "В дословном переводе каждого предложения",
+            "В механическом заучивании правил"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    }
+  ]
+}

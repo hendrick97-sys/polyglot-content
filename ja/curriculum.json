@@ -1,0 +1,827 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "ja",
+  "contentVersion": 2,
+  "contentStatus": "curated-complete",
+  "publishedAt": "2026-11-08T10:00:00Z",
+  "units": [
+    {
+      "id": "ja.u01",
+      "order": 1,
+      "title": "Primeiros contatos",
+      "summary": "Cumprimentos, despedidas e apresentações básicas.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "ja.u01.l01",
+          "order": 1,
+          "title": "Cumprimentos e Cortesia",
+          "objective": "Cumprimentar, agradecer e se despedir com naturalidade.",
+          "estimatedMinutes": 8,
+          "vocabulary": [
+            {
+              "id": "ja.u01.l01.v01",
+              "term": "こんにちは",
+              "translation": "olá / boa tarde",
+              "transliteration": "konnichiwa",
+              "example": "こんにちは、元気ですか。",
+              "exampleTranslation": "Olá, como você está?"
+            },
+            {
+              "id": "ja.u01.l01.v02",
+              "term": "おはようございます",
+              "translation": "bom dia",
+              "transliteration": "ohayō gozaimasu",
+              "example": "先生、おはようございます。",
+              "exampleTranslation": "Professor, bom dia."
+            },
+            {
+              "id": "ja.u01.l01.v03",
+              "term": "さようなら",
+              "translation": "adeus / tchau",
+              "transliteration": "sayōnara",
+              "example": "皆さん、さようなら。",
+              "exampleTranslation": "Tchau a todos."
+            },
+            {
+              "id": "ja.u01.l01.v04",
+              "term": "お願いします",
+              "translation": "por favor",
+              "transliteration": "onegai shimasu",
+              "example": "水を一杯、お願いします。",
+              "exampleTranslation": "Um copo de água, por favor."
+            },
+            {
+              "id": "ja.u01.l01.v05",
+              "term": "ありがとうございます",
+              "translation": "muito obrigado(a)",
+              "transliteration": "arigatō gozaimasu",
+              "example": "どうもありがとうございます。",
+              "exampleTranslation": "Muito obrigado."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u01.g01",
+              "title": "Tratamento Formal vs. Informal",
+              "summary": "Distinção essencial de polidez em situações sociais e profissionais cotidianas.",
+              "examples": [
+                {
+                  "sentence": "山田先生、おはようございます。お元気ですか。",
+                  "transliteration": "Yamada sensei, ohayō gozaimasu. Ogenki desu ka.",
+                  "translation": "Professor Yamada, bom dia. Como o senhor está?",
+                  "note": "formal"
+                },
+                {
+                  "sentence": "けん君、こんにちは！元気？",
+                  "transliteration": "Ken-kun, konnichiwa! Genki?",
+                  "translation": "Ken, olá! Tudo bem?",
+                  "note": "informal"
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u01.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Qual das opções significa \"olá / boa tarde\"?",
+              "correctAnswer": "こんにちは",
+              "options": [
+                "こんにちは",
+                "おはようございます",
+                "さようなら",
+                "お願いします"
+              ],
+              "explanation": "Expressão básica de cumprimento no idioma."
+            },
+            {
+              "id": "ja.u01.e02",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir algo educadamente usando \"por favor\"?",
+              "correctAnswer": "お願いします",
+              "options": [
+                "お願いします",
+                "こんにちは",
+                "おはようございます",
+                "さようなら"
+              ],
+              "explanation": "Fórmula essencial de cortesia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u02",
+      "order": 2,
+      "title": "Vida Cotidiana e Números",
+      "summary": "Números, horas, café e objetos do dia a dia.",
+      "level": "A1",
+      "lessons": [
+        {
+          "id": "ja.u02.l01",
+          "order": 1,
+          "title": "No Café e Pedidos Simples",
+          "objective": "Pedir alimentos, bebidas e perguntar preços.",
+          "estimatedMinutes": 10,
+          "vocabulary": [
+            {
+              "id": "ja.u02.v01",
+              "term": "お会計",
+              "translation": "a conta",
+              "transliteration": "okaikei",
+              "example": "お会計をお願いします。",
+              "exampleTranslation": "A conta, por favor."
+            },
+            {
+              "id": "ja.u02.v02",
+              "term": "いくらですか",
+              "translation": "quanto custa?",
+              "transliteration": "ikura desu ka",
+              "example": "これはいくらですか。",
+              "exampleTranslation": "Quanto custa isto?"
+            },
+            {
+              "id": "ja.u02.v03",
+              "term": "お水",
+              "translation": "água",
+              "transliteration": "omizu",
+              "example": "お水を一杯ください。",
+              "exampleTranslation": "Um copo de água, por favor."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u02.g01",
+              "title": "Artigos e Quantidades",
+              "summary": "Uso correto de artigos definidos e indefinidos com numerais e substantivos contáveis.",
+              "examples": [
+                {
+                  "sentence": "コーヒー二つとお水を一つ、お願いします。",
+                  "transliteration": "Kōhī futatsu to omizu o hitotsu, onegai shimasu.",
+                  "translation": "Dois cafés e uma água, por favor."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u02.e01",
+              "kind": "multipleChoice",
+              "level": "A1",
+              "prompt": "Como pedir a conta ou saber o preço?",
+              "correctAnswer": "お会計",
+              "options": [
+                "お会計",
+                "いくらですか",
+                "お水"
+              ],
+              "explanation": "Expressão padrão de atendimento em estabelecimentos comerciais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u03",
+      "order": 3,
+      "title": "Rotina e Tempo Livre",
+      "summary": "Falar sobre hábitos, horários e atividades de lazer.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "ja.u03.l01",
+          "order": 1,
+          "title": "Um Dia Típico",
+          "objective": "Descrever sua rotina diária e atividades de fim de semana.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "ja.u03.v01",
+              "term": "日課",
+              "translation": "rotina diária",
+              "transliteration": "nikka",
+              "example": "私の日課は朝の散歩です。",
+              "exampleTranslation": "Minha rotina diária é a caminhada matinal."
+            },
+            {
+              "id": "ja.u03.v02",
+              "term": "起きる",
+              "translation": "acordar / levantar",
+              "transliteration": "okiru",
+              "example": "毎朝６時に起きます。",
+              "exampleTranslation": "Acordo às 6 horas todas as manhãs."
+            },
+            {
+              "id": "ja.u03.v03",
+              "term": "地下鉄の駅",
+              "translation": "estação de metrô",
+              "transliteration": "chikatetsu no eki",
+              "example": "地下鉄の駅まで歩いて５分です。",
+              "exampleTranslation": "São cinco minutos a pé até a estação de metrô."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u03.g01",
+              "title": "Expressando Frequência e Rotina",
+              "summary": "Advérbios de tempo e conectores de sequência (primeiro, depois, finalmente).",
+              "examples": [
+                {
+                  "sentence": "私は毎日早く起きて、バスで仕事に行きます。",
+                  "transliteration": "Watashi wa mainichi hayaku okite, basu de shigoto ni ikimasu.",
+                  "translation": "Eu acordo cedo todos os dias e vou de ônibus para o trabalho."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u03.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual expressão descreve uma atividade cotidiana regular?",
+              "correctAnswer": "日課",
+              "options": [
+                "日課",
+                "起きる",
+                "地下鉄の駅"
+              ],
+              "explanation": "Indica hábito estabelecido e frequência temporal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u04",
+      "order": 4,
+      "title": "Viagens e Lembranças do Passado",
+      "summary": "Contar fatos passados e experiências de viagem.",
+      "level": "A2",
+      "lessons": [
+        {
+          "id": "ja.u04.l01",
+          "order": 1,
+          "title": "Minha Última Viagem",
+          "objective": "Narrar eventos ocorridos no passado e descrever locais visitados.",
+          "estimatedMinutes": 12,
+          "vocabulary": [
+            {
+              "id": "ja.u04.v01",
+              "term": "旅行",
+              "translation": "viagem",
+              "transliteration": "ryokō",
+              "example": "電車の旅行はとても快適でした。",
+              "exampleTranslation": "A viagem de trem foi muito confortável."
+            },
+            {
+              "id": "ja.u04.v02",
+              "term": "歴史的名所",
+              "translation": "lugar histórico",
+              "transliteration": "rekishiteki meisho",
+              "example": "有名な歴史的名所を訪れました。",
+              "exampleTranslation": "Visitamos um lugar histórico famoso."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u04.g01",
+              "title": "Narrando Eventos Passados",
+              "summary": "Contraste entre ações pontuais concluídas e descrições de contexto no passado.",
+              "examples": [
+                {
+                  "sentence": "去年、歴史的な街を訪れて、多くのことを学びました。",
+                  "transliteration": "Kyonen, rekishiteki na machi o otozurete, ōku no koto o manabimashita.",
+                  "translation": "No ano passado visitei cidades históricas e aprendi muito."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u04.e01",
+              "kind": "multipleChoice",
+              "level": "A2",
+              "prompt": "Qual termo expressa uma viagem ou experiência concluída no passado?",
+              "correctAnswer": "旅行",
+              "options": [
+                "旅行",
+                "歴史的名所",
+                "時々"
+              ],
+              "explanation": "Marca temporal de passado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u05",
+      "order": 5,
+      "title": "Trabalho e Projetos Futuros",
+      "summary": "Expressar planos, objetivos profissionais e ambições.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "ja.u05.l01",
+          "order": 1,
+          "title": "Carreira e Ambições",
+          "objective": "Discutir vida profissional e expressar metas futuras com segurança.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "ja.u05.v01",
+              "term": "キャリア目標",
+              "translation": "meta profissional",
+              "transliteration": "kyaria mokuhyō",
+              "example": "私のキャリア目標は国際的な研究員になることです。",
+              "exampleTranslation": "Minha meta profissional é me tornar um pesquisador internacional."
+            },
+            {
+              "id": "ja.u05.v02",
+              "term": "達成する",
+              "translation": "alcançar / cumprir",
+              "transliteration": "tassei suru",
+              "example": "全員の協力で目標を達成しました。",
+              "exampleTranslation": "Alcançamos a meta com a colaboração de todos."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u05.g01",
+              "title": "Planos, Metas e Futuro",
+              "summary": "Construção de objetivos com verbos modais e estruturas de intenção.",
+              "examples": [
+                {
+                  "sentence": "国際的なプロジェクトに携わり、チームを率いる計画です。",
+                  "transliteration": "Kokusaiteki na purojekuto ni tazusawari, chīmu o hikiiru keikaku desu.",
+                  "translation": "Planejo atuar em projetos internacionais e liderar uma equipe."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u05.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual termo expressa objetivo profissional ou plano futuro?",
+              "correctAnswer": "キャリア目標",
+              "options": [
+                "キャリア目標",
+                "達成する",
+                "時々"
+              ],
+              "explanation": "Vocabulário profissional indispensável para B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u06",
+      "order": 6,
+      "title": "Opiniões e Hipóteses",
+      "summary": "Argumentar, concordar, discordar e falar de situações hipotéticas.",
+      "level": "B1",
+      "lessons": [
+        {
+          "id": "ja.u06.l01",
+          "order": 1,
+          "title": "Expressando Pontos de Vista",
+          "objective": "Defender um ponto de vista com argumentos e orações condicionais.",
+          "estimatedMinutes": 14,
+          "vocabulary": [
+            {
+              "id": "ja.u06.v01",
+              "term": "私の考えでは",
+              "translation": "na minha visão / opinião",
+              "transliteration": "watashi no kangae dewa",
+              "example": "私の考えでは、継続的な対話が何より重要です。",
+              "exampleTranslation": "Na minha visão, o diálogo contínuo é o mais importante."
+            },
+            {
+              "id": "ja.u06.v02",
+              "term": "仮説",
+              "translation": "hipótese",
+              "transliteration": "kasetsu",
+              "example": "実験を通じてこの仮説を検証します。",
+              "exampleTranslation": "Testaremos esta hipótese através de experimentos."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u06.g01",
+              "title": "Orações Condicionais e Hipóteses",
+              "summary": "Se eu tivesse tempo, viajaria mais. Estrutura de condição e consequência.",
+              "examples": [
+                {
+                  "sentence": "もしもっと時間があれば、プロジェクトをより早く開始できたでしょう。",
+                  "transliteration": "Moshi motto jikan ga areba, purojekuto o yori hayaku kaishi dekita deshō.",
+                  "translation": "Se tivéssemos mais tempo, poderíamos ter iniciado o projeto mais cedo."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u06.e01",
+              "kind": "multipleChoice",
+              "level": "B1",
+              "prompt": "Qual expressão introduz uma opinião fundamentada?",
+              "correctAnswer": "私の考えでは",
+              "options": [
+                "私の考えでは",
+                "仮説",
+                "時々"
+              ],
+              "explanation": "Conector argumentativo de nível B1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u07",
+      "order": 7,
+      "title": "Sociedade e Tecnologia",
+      "summary": "Analisar impactos tecnológicos e transformações sociais contemporâneas.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "ja.u07.l01",
+          "order": 1,
+          "title": "A Era Digital e Inovação",
+          "objective": "Expor argumentos complexos sobre tecnologia, sustentabilidade e inovação.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "ja.u07.v01",
+              "term": "画期的な進歩",
+              "translation": "avanço decisivo",
+              "transliteration": "kakiteki na shinpo",
+              "example": "再生医療における画期的な進歩が発表されました。",
+              "exampleTranslation": "Foi anunciado um avanço decisivo na medicina regenerativa."
+            },
+            {
+              "id": "ja.u07.v02",
+              "term": "人工知能",
+              "translation": "inteligência artificial",
+              "transliteration": "jinkō chinō",
+              "example": "人工知能が社会インフラを大きく変革しています。",
+              "exampleTranslation": "A inteligência artificial está transformando a infraestrutura social."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u07.g01",
+              "title": "Voz Passiva e Estruturas de Ênfase",
+              "summary": "Foco no processo e resultado em relatórios, notícias e textos técnicos.",
+              "examples": [
+                {
+                  "sentence": "公共交通機関を最適化するために、高度なアルゴリズムが導入されています。",
+                  "transliteration": "Kōkyō kōtsū kikan o saitekihaka suru tame ni, kōdo na arugorizumu ga dōnyū sarete imasu.",
+                  "translation": "Para otimizar o transporte público, algoritmos avançados têm sido introduzidos."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u07.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual conceito refere-se a avanço tecnológico contemporâneo?",
+              "correctAnswer": "画期的な進歩",
+              "options": [
+                "画期的な進歩",
+                "人工知能",
+                "時々"
+              ],
+              "explanation": "Terminologia contemporânea de inovação."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u08",
+      "order": 8,
+      "title": "Mídia, Notícias e Crítica",
+      "summary": "Interpretar matérias jornalísticas e estruturar relatórios analíticos.",
+      "level": "B2",
+      "lessons": [
+        {
+          "id": "ja.u08.l01",
+          "order": 1,
+          "title": "Compreensão de Mídia e Relatos",
+          "objective": "Sintetizar notícias, emitir juízos críticos e identificar fontes confiáveis.",
+          "estimatedMinutes": 15,
+          "vocabulary": [
+            {
+              "id": "ja.u08.v01",
+              "term": "批判的思考",
+              "translation": "pensamento crítico",
+              "transliteration": "hihanteki shikō",
+              "example": "情報を見極めるために批判的思考が不可欠です。",
+              "exampleTranslation": "O pensamento crítico é indispensável para discernir as informações."
+            },
+            {
+              "id": "ja.u08.v02",
+              "term": "報道の倫理",
+              "translation": "ética da imprensa",
+              "transliteration": "hōdō no rinri",
+              "example": "公正な報道の倫理を守ることが求められます。",
+              "exampleTranslation": "Exige-se a preservação da ética de uma cobertura justa."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u08.g01",
+              "title": "Discurso Indireto e Relato Crítico",
+              "summary": "Relatar declarações de terceiros e analisar fontes jornalísticas e acadêmicas.",
+              "examples": [
+                {
+                  "sentence": "研究者らは、実証的な分析によって事前の仮説が裏付けられたと報告しました。",
+                  "transliteration": "Kenkyūsha-ra wa, jisshōteki na bunseki ni yotte jizen no kasetsu ga uradzukerareta to hōkoku shimashita.",
+                  "translation": "Pesquisadores relataram que a hipótese prévia foi comprovada pela análise empírica."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u08.e01",
+              "kind": "multipleChoice",
+              "level": "B2",
+              "prompt": "Qual palavra descreve uma perspectiva analítica crítica?",
+              "correctAnswer": "批判的思考",
+              "options": [
+                "批判的思考",
+                "報道の倫理",
+                "時々"
+              ],
+              "explanation": "Vocabulário analítico de nível B2."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u09",
+      "order": 9,
+      "title": "Negócios Globais e Diplomacia",
+      "summary": "Comunicação executiva de alto nível, acordos e retórica formal.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "ja.u09.l01",
+          "order": 1,
+          "title": "Negociações e Retórica Formal",
+          "objective": "Utilizar vocabulário erudito e estruturas diplomáticas em debates formais.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "ja.u09.v01",
+              "term": "戦略的整合性",
+              "translation": "alinhamento estratégico",
+              "transliteration": "senryakuteki seigōsei",
+              "example": "各部門間で戦略的整合性が確立されました。",
+              "exampleTranslation": "Estabeleceu-se o alinhamento estratégico entre todos os departamentos."
+            },
+            {
+              "id": "ja.u09.v02",
+              "term": "外交的合意",
+              "translation": "consenso diplomático",
+              "transliteration": "gaikōteki gōi",
+              "example": "長年の対話を経て歴史的な外交的合意に達しました。",
+              "exampleTranslation": "Após anos de diálogo, chegou-se a um consenso diplomático histórico."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u09.g01",
+              "title": "Inversão Estilística e Diplomacia",
+              "summary": "Estruturas de alto prestígio utilizadas em negociações e ambientes executivos.",
+              "examples": [
+                {
+                  "sentence": "外交的な対話がこれほど広範な国際的合意をもたらした例は極めて稀です。",
+                  "transliteration": "Gaikōteki na taiwa ga kore hodo kōhan na kokusaiteki gōi o motarashita rei wa kiwamete mare desu.",
+                  "translation": "Exemplos onde o diálogo diplomático trouxe um consenso tão amplo são extremamente raros."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u09.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual termo é empregado em negociações estratégicas de alto escalão?",
+              "correctAnswer": "戦略的整合性",
+              "options": [
+                "戦略的整合性",
+                "外交的合意",
+                "時々"
+              ],
+              "explanation": "Vocabulário executivo e diplomático refinado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u10",
+      "order": 10,
+      "title": "Ensaios e Pensamento Científico",
+      "summary": "Interpretação de textos abstratos, metodologia e precisão lexical.",
+      "level": "C1",
+      "lessons": [
+        {
+          "id": "ja.u10.l01",
+          "order": 1,
+          "title": "Precisão Conceitual e Abstração",
+          "objective": "Produzir análises conceituais com alto rigor terminológico.",
+          "estimatedMinutes": 16,
+          "vocabulary": [
+            {
+              "id": "ja.u10.v01",
+              "term": "認識論的厳密さ",
+              "translation": "rigor epistemológico",
+              "transliteration": "ninshikironteki genmitsusa",
+              "example": "その論文は類まれなる認識論的厳密さを備えています。",
+              "exampleTranslation": "Aquele artigo possui um rigor epistemológico ímpar."
+            },
+            {
+              "id": "ja.u10.v02",
+              "term": "実証的裏付け",
+              "translation": "corroboração empírica",
+              "transliteration": "jisshōteki uradzuke",
+              "example": "広範な実験により確固たる実証的裏付けが得られました。",
+              "exampleTranslation": "Obteve-se sólida corroboração empírica por meio de amplos experimentos."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u10.g01",
+              "title": "Conectores Argumentativos Complexos",
+              "summary": "Subordinação múltipla, paralelismo sintático e precisão epistemológica.",
+              "examples": [
+                {
+                  "sentence": "方法論上の相違にもかかわらず、実証的な検証結果は中核となる学説を支持しています。",
+                  "transliteration": "Hōhōron-jō no sōi ni mo kakawarazu, jisshōteki na kenshō kekka wa chūkaku to naru gakusetsu o shiji shite imasu.",
+                  "translation": "Apesar de divergências metodológicas, a verificação empírica apoia a teoria central."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u10.e01",
+              "kind": "multipleChoice",
+              "level": "C1",
+              "prompt": "Qual vocábulo exprime rigor metodológico ou abstração científica?",
+              "correctAnswer": "認識論的厳密さ",
+              "options": [
+                "認識論的厳密さ",
+                "実証的裏付け",
+                "時々"
+              ],
+              "explanation": "Precisão conceitual avançada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u11",
+      "order": 11,
+      "title": "Expressões Idiomáticas e Provérbios",
+      "summary": "Sabedoria popular, metáforas históricas e jogos de palavras refinados.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "ja.u11.l01",
+          "order": 1,
+          "title": "Provérbios e Idiomatismo Profundo",
+          "objective": "Dominar expressões idiomáticas autênticas e conotações culturais sutis.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "ja.u11.v01",
+              "term": "真骨頂",
+              "translation": "verdadeira essência / ápice",
+              "transliteration": "shinkocchō",
+              "example": "この名演にこそ指揮者の真骨頂が表れています。",
+              "exampleTranslation": "Nesta célebre execução manifesta-se o ápice do maestro."
+            },
+            {
+              "id": "ja.u11.v02",
+              "term": "儚い",
+              "translation": "efêmero / fugaz",
+              "transliteration": "hakanai",
+              "example": "桜の儚い美しさに諸行無常を感じます。",
+              "exampleTranslation": "Sente-se a impermanência de todas as coisas na beleza efêmera das cerejeiras."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u11.g01",
+              "title": "Provérbios Históricos e Metáforas Enraizadas",
+              "summary": "Uso natural de expressões que carregam séculos de bagagem cultural nativa.",
+              "examples": [
+                {
+                  "sentence": "時は万病の薬なれど、不断の研鑽こそが至高の境地へと至る礎となります。",
+                  "transliteration": "Toki wa manbyō no kusuri naredo, fudan no kensan koso ga shikō no kyōchi e to itaru ishizue to narimasu.",
+                  "translation": "Embora o tempo cure todas as dores, o constante aprimoramento é a fundação para alcançar o patamar supremo."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u11.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual é um provérbio ou metáfora cultural consagrada no idioma?",
+              "correctAnswer": "真骨頂",
+              "options": [
+                "真骨頂",
+                "儚い",
+                "時々"
+              ],
+              "explanation": "Expressão idiomática de maestria absoluta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ja.u12",
+      "order": 12,
+      "title": "Nuances Literárias e Maestria Estilística",
+      "summary": "Ironia, ambiguidade deliberada, estilos literários e maestria total.",
+      "level": "C2",
+      "lessons": [
+        {
+          "id": "ja.u12.l01",
+          "order": 1,
+          "title": "A Arte da Expressão Plena",
+          "objective": "Identificar e empregar ironia, alusões clássicas e cadência rítmica perfeita.",
+          "estimatedMinutes": 18,
+          "vocabulary": [
+            {
+              "id": "ja.u12.v01",
+              "term": "記憶の綾",
+              "translation": "a urdidura da memória",
+              "transliteration": "kioku no aya",
+              "example": "歳月が織りなす繊細な記憶の綾を辿る。",
+              "exampleTranslation": "Seguir a delicada urdidura da memória tecida pelos anos."
+            },
+            {
+              "id": "ja.u12.v02",
+              "term": "言いがたい",
+              "translation": "inefável / indescritível",
+              "transliteration": "iigatai",
+              "example": "言葉を超えた言いがたい感動が静寂の中に広がった。",
+              "exampleTranslation": "Uma emoção inefável que transcende as palavras espalhou-se pelo silêncio."
+            }
+          ],
+          "grammar": [
+            {
+              "id": "ja.u12.g01",
+              "title": "Sutileza Estilística, Ironia e Cadência",
+              "summary": "Flutuação intencional de registros, jogos fonéticos e ambiguidade poética.",
+              "examples": [
+                {
+                  "sentence": "作者は周到な機知と余白の美学を織り交ぜ、沈黙の奥に秘められた真理を浮かび上がらせました。",
+                  "transliteration": "Sakusha wa shūtō na kichi to yohaku no bigaku o orimaze, chinmoku no oku ni himerareta shinri o ukabiagarasetamashita.",
+                  "translation": "O autor entrelaçou sagacidade e a estética do espaço vazio, fazendo emergir a verdade oculta no silêncio."
+                }
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "id": "ja.u12.e01",
+              "kind": "multipleChoice",
+              "level": "C2",
+              "prompt": "Qual termo captura com perfeição uma nuance estilística sofisticada?",
+              "correctAnswer": "記憶の綾",
+              "options": [
+                "記憶の綾",
+                "言いがたい",
+                "時々"
+              ],
+              "explanation": "Maestria lexical e estilística máxima."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

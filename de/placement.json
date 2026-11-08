@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "de",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "de.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Ich ___ Student.",
+      "options": [
+        "bin",
+        "bist",
+        "ist",
+        "sind"
+      ],
+      "correctAnswer": "bin"
+    },
+    {
+      "id": "de.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Wie ___ du?",
+      "options": [
+        "heißt",
+        "heiße",
+        "heißen",
+        "heiß"
+      ],
+      "correctAnswer": "heißt"
+    },
+    {
+      "id": "de.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Gestern ___ ich ins Kino gegangen.",
+      "options": [
+        "bin",
+        "habe",
+        "bist",
+        "werde"
+      ],
+      "correctAnswer": "bin"
+    },
+    {
+      "id": "de.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Ich ___ jeden Tag Deutsch.",
+      "options": [
+        "lerne",
+        "lernst",
+        "lernt",
+        "lernen"
+      ],
+      "correctAnswer": "lerne"
+    },
+    {
+      "id": "de.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "Wenn ich mehr Zeit hätte, ___ ich mehr reisen.",
+      "options": [
+        "würde",
+        "werde",
+        "wurde",
+        "will"
+      ],
+      "correctAnswer": "würde"
+    }
+  ]
+}

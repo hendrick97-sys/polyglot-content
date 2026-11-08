@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "it",
+  "contentVersion": 1,
+  "questions": [
+    {
+      "id": "it.p01",
+      "order": 1,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Io ___ studente.",
+      "options": [
+        "sono",
+        "sei",
+        "è",
+        "siamo"
+      ],
+      "correctAnswer": "sono"
+    },
+    {
+      "id": "it.p02",
+      "order": 2,
+      "kind": "multipleChoice",
+      "level": "A1",
+      "prompt": "Come ti ___? — Mi chiamo Ana.",
+      "options": [
+        "chiami",
+        "chiamo",
+        "chiama",
+        "chiamate"
+      ],
+      "correctAnswer": "chiami"
+    },
+    {
+      "id": "it.p03",
+      "order": 3,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Ieri io ___ andato al mercato.",
+      "options": [
+        "sono",
+        "ho",
+        "sei",
+        "è"
+      ],
+      "correctAnswer": "sono"
+    },
+    {
+      "id": "it.p04",
+      "order": 4,
+      "kind": "multipleChoice",
+      "level": "A2",
+      "prompt": "Mia sorella ___ a Roma.",
+      "options": [
+        "abita",
+        "abito",
+        "abiti",
+        "abitano"
+      ],
+      "correctAnswer": "abita"
+    },
+    {
+      "id": "it.p05",
+      "order": 5,
+      "kind": "multipleChoice",
+      "level": "B1",
+      "prompt": "Se avessi più tempo, ___ di più.",
+      "options": [
+        "viaggerei",
+        "viaggio",
+        "viaggerò",
+        "viaggiavo"
+      ],
+      "correctAnswer": "viaggerei"
+    }
+  ]
+}

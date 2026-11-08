@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "languageCode": "en",
+  "contentVersion": 2,
+  "stories": [
+    {
+      "id": "en.s01",
+      "title": "At the Cafe (A1)",
+      "level": "A1",
+      "unitId": "en.u01",
+      "genre": "Cotidiano",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "Leo enters a quiet cafe downtown. The morning air is fresh.",
+        "He orders a hot black coffee and a fresh croissant.",
+        "The barista smiles and says: \"Have a wonderful day!\""
+      ],
+      "translations": [
+        "Leo entra em um café tranquilo no centro. O ar da manhã está fresco.",
+        "Ele pede um café preto quente e um croissant fresco.",
+        "A atendente sorri e diz: \"Tenha um dia maravilhoso!\""
+      ],
+      "questions": [
+        {
+          "id": "en.s01.q01",
+          "kind": "multipleChoice",
+          "level": "A1",
+          "prompt": "What did Leo order at the cafe?",
+          "correctAnswer": "Coffee and croissant",
+          "options": [
+            "Coffee and croissant",
+            "Tea and sandwich",
+            "Juice and cake"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cafe",
+          "translation": "café",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "en.s02",
+      "title": "Train Journey to the Coast (A2)",
+      "level": "A2",
+      "unitId": "en.u01",
+      "genre": "Viagens",
+      "estimatedMinutes": 5,
+      "paragraphs": [
+        "Last Saturday, Sofia took an early regional train to the coast.",
+        "She walked along the shoreline and listened to the gentle waves.",
+        "In the evening, she returned home feeling refreshed and inspired."
+      ],
+      "translations": [
+        "No sábado passado, Sofia pegou um trem regional cedo para o litoral.",
+        "Ela caminhou ao longo da praia e ouviu as ondas suaves.",
+        "À noite, voltou para casa sentindo-se revigorada e inspirada."
+      ],
+      "questions": [
+        {
+          "id": "en.s02.q01",
+          "kind": "multipleChoice",
+          "level": "A2",
+          "prompt": "Where did Sofia travel last Saturday?",
+          "correctAnswer": "To the coast by train",
+          "options": [
+            "To the coast by train",
+            "To the mountains by car",
+            "To the office"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível A2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "coast",
+          "translation": "litoral / costa",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "en.s03",
+      "title": "The Team Sprint (B1)",
+      "level": "B1",
+      "unitId": "en.u01",
+      "genre": "Trabalho",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Our engineering team kicked off a critical two-week sprint this morning.",
+        "We carefully reviewed architecture diagrams and prioritized backend performance.",
+        "If we collaborate effectively, the software release will exceed expectations."
+      ],
+      "translations": [
+        "Nossa equipe de engenharia iniciou um sprint decisivo de duas semanas esta manhã.",
+        "Analisamos cuidadosamente diagramas de arquitetura e priorizamos a performance do backend.",
+        "Se colaborarmos com eficácia, o lançamento do software superará as expectativas."
+      ],
+      "questions": [
+        {
+          "id": "en.s03.q01",
+          "kind": "multipleChoice",
+          "level": "B1",
+          "prompt": "What was the primary focus of the team sprint?",
+          "correctAnswer": "Software architecture and performance",
+          "options": [
+            "Software architecture and performance",
+            "Vacation planning",
+            "Office relocation"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "en.s04",
+      "title": "The Mountain Observatory (B2)",
+      "level": "B2",
+      "unitId": "en.u01",
+      "genre": "Ficção",
+      "estimatedMinutes": 8,
+      "paragraphs": [
+        "Perched atop a rugged granite ridge, the ancient astronomical observatory commanded an unobstructed panorama of the constellations.",
+        "Elena calibrated the spectrograph, observing an anomalous wavelength pulsating from an unexplored sector.",
+        "This empirical discovery challenged prevailing paradigms and demanded immediate international peer review."
+      ],
+      "translations": [
+        "Situado no alto de uma crista de granito escarpada, o antigo observatório astronômico dominava um panorama desobstruído das constelações.",
+        "Elena calibrou o espectrógrafo, observando um comprimento de onda anômalo pulsando de um setor inexplorado.",
+        "Esta descoberta empírica desafiava os paradigmas vigentes e exigia imediata revisão internacional por pares."
+      ],
+      "questions": [
+        {
+          "id": "en.s04.q01",
+          "kind": "multipleChoice",
+          "level": "B2",
+          "prompt": "What did Elena detect using the spectrograph?",
+          "correctAnswer": "An anomalous pulsating wavelength",
+          "options": [
+            "An anomalous pulsating wavelength",
+            "A broken lens",
+            "A solar storm warning"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível B2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "en.s05",
+      "title": "Frontiers of Intelligence and Ethics (C1)",
+      "level": "C1",
+      "unitId": "en.u01",
+      "genre": "Ciência",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "The proliferation of autonomous cognitive architectures compels societies to reexamine the foundational tenets of ethical responsibility.",
+        "When algorithmic synthesis surpasses human heuristic speed, epistemic opacity becomes an urgent governance challenge.",
+        "Only by grounding technological ambition in multidisciplinary scrutiny can institutional integrity be safeguarded."
+      ],
+      "translations": [
+        "A proliferação de arquiteturas cognitivas autônomas compele as sociedades a reexaminar os preceitos fundamentais da responsabilidade ética.",
+        "Quando a síntese algorítmica ultrapassa a velocidade heurística humana, a opacidade epistêmica torna-se um desafio urgente de governança.",
+        "Somente alicerçando a ambição tecnológica em escrutínio multidisciplinar a integridade institucional poderá ser preservada."
+      ],
+      "questions": [
+        {
+          "id": "en.s05.q01",
+          "kind": "multipleChoice",
+          "level": "C1",
+          "prompt": "According to the text, what emerges as a primary governance challenge?",
+          "correctAnswer": "Epistemic opacity of autonomous algorithms",
+          "options": [
+            "Epistemic opacity of autonomous algorithms",
+            "Hardware manufacturing costs",
+            "Lack of software developers"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C1."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "governance",
+          "translation": "governança / controle",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    },
+    {
+      "id": "en.s06",
+      "title": "The Tapestry of Ephemerality (C2)",
+      "level": "C2",
+      "unitId": "en.u01",
+      "genre": "Literatura",
+      "estimatedMinutes": 12,
+      "paragraphs": [
+        "In the twilight of antiquity, philosophers posited that memory is not a repository of petrified facts, but an ever-shifting tapestry woven from silence and sorrow.",
+        "To read between the lines of classical prose is to discern the poignant cadence of words that dare not declare their ultimate allegiance.",
+        "Mastery of expression culminates when the speaker wields ambiguity not as a shield, but as the supreme prism of human complexity."
+      ],
+      "translations": [
+        "No crepúsculo da antiguidade, filósofos postularam que a memória não é um repositório de fatos petrificados, mas uma tecedura em constante mutação tecida de silêncio e melancolia.",
+        "Ler nas entrelinhas da prosa clássica é discernir a comovente cadência de palavras que não ousam declarar sua fidelidade definitiva.",
+        "A maestria da expressão culmina quando o falante empunha a ambiguidade não como escudo, mas como o prisma supremo da complexidade humana."
+      ],
+      "questions": [
+        {
+          "id": "en.s06.q01",
+          "kind": "multipleChoice",
+          "level": "C2",
+          "prompt": "How does the author characterize the mastery of expression at C2 level?",
+          "correctAnswer": "Wielding ambiguity as a prism of complexity",
+          "options": [
+            "Wielding ambiguity as a prism of complexity",
+            "Memorizing thousands of rules",
+            "Speaking as loudly as possible"
+          ],
+          "explanation": "Interpretação e compreensão contextual da história no nível C2."
+        }
+      ],
+      "vocabularyHighlights": [
+        {
+          "term": "cadence",
+          "translation": "cadência / ressonância",
+          "explanation": "Vocabulário chave contextualizado na história."
+        }
+      ]
+    }
+  ]
+}

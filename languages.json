@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "languages": [
+    {
+      "code": "en",
+      "namePortuguese": "Inglês",
+      "nativeName": "English",
+      "script": "latin",
+      "isRightToLeft": false,
+      "speechLocale": "en-US",
+      "contentDirectory": "en",
+      "contentVersion": 1
+    },
+    {
+      "code": "es",
+      "namePortuguese": "Espanhol",
+      "nativeName": "Español",
+      "script": "latin",
+      "isRightToLeft": false,
+      "speechLocale": "es-ES",
+      "contentDirectory": "es",
+      "contentVersion": 1
+    },
+    {
+      "code": "fr",
+      "namePortuguese": "Francês",
+      "nativeName": "Français",
+      "script": "latin",
+      "isRightToLeft": false,
+      "speechLocale": "fr-FR",
+      "contentDirectory": "fr",
+      "contentVersion": 1
+    },
+    {
+      "code": "de",
+      "namePortuguese": "Alemão",
+      "nativeName": "Deutsch",
+      "script": "latin",
+      "isRightToLeft": false,
+      "speechLocale": "de-DE",
+      "contentDirectory": "de",
+      "contentVersion": 1
+    },
+    {
+      "code": "it",
+      "namePortuguese": "Italiano",
+      "nativeName": "Italiano",
+      "script": "latin",
+      "isRightToLeft": false,
+      "speechLocale": "it-IT",
+      "contentDirectory": "it",
+      "contentVersion": 1
+    },
+    {
+      "code": "ja",
+      "namePortuguese": "Japonês",
+      "nativeName": "日本語",
+      "script": "japanese",
+      "isRightToLeft": false,
+      "speechLocale": "ja-JP",
+      "contentDirectory": "ja",
+      "contentVersion": 1
+    },
+    {
+      "code": "ru",
+      "namePortuguese": "Russo",
+      "nativeName": "Русский",
+      "script": "cyrillic",
+      "isRightToLeft": false,
+      "speechLocale": "ru-RU",
+      "contentDirectory": "ru",
+      "contentVersion": 1
+    }
+  ]
+}
